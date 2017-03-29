@@ -26,7 +26,8 @@ Nana
 Omicron
 Slappy Hands
 Laundry
-Black
+Darkest
+Far
 Blue
 Purple
 Hazy
@@ -34,10 +35,10 @@ Misty
 Itchy
 Yellow
 Gray
-Persei
 Mist
 Miniscule
 Tiny
+Oversized
 Large
 Superior
 Suburban
@@ -55,6 +56,35 @@ Muddy
 Angular
 Rotating
 Oscillating
+Dapper
+Massive
+Super
+Ultra-New
+Organic
+Artisanal
+Hand-Crafted
+Indescribable
+Professionally-Made
+Well-Constructed
+Overpriced
+UnderAchieving
+First Class
+Top Shelf
+Deluxe
+Super-Deluxe
+Pretty Decent
+Acceptable
+Rad
+Super-Massive
+Extra-Small
+Teeny
+Teensy
+Greasy
+Repulsive
+Unimportant
+Boring
+Sweet
+Salty
 Gyrating
 Spinning
 Tessellating

@@ -35,9 +35,8 @@ Horse
 Pig
 Rabbit
 rat
-rat
+Lurching for Safety
 Sheep
-
 Chicken
 Duck
 Goose
@@ -270,7 +269,8 @@ Leech
 Lemming
 Lemur
 Leopard
-Leopon
+Norton
+Mashed Potatoes
 Trumpet
 Clarinet
 Saxophone
@@ -346,6 +346,7 @@ Parrotfish
 Partridge
 Peacock
 Peafowl
+Pecan
 Pelican
 Penguin
 Perch
@@ -356,18 +357,16 @@ Pigeon
 Mushroom
 Pike
 whale
-Pinniped
 Piranha
-Planarian
 mansplainer
 Platypus
 bear
 Pony
 Porcupine
 Porpoise
-man o' war
+Man O' War
 Possum
-dog
+Dog
 Prawn
 mantis
 Primate
@@ -454,8 +453,9 @@ Tern
 Thrush
 Tick
 Tiger
-shark
-Tiglon
+Shark
+Student
+Teacher
 Toad
 Tortoise
 Toucan
@@ -465,6 +465,7 @@ Trout
 Tuna
 Turkey
 Turtle
+Triceratops
 Tyrannosaurus
 Gallimimus
 bat
@@ -556,6 +557,7 @@ Peeler of the potatoes
 Kazooie
 Tooie
 Enforcer
+4000
 Because of the Way I Play Jazz
 Goods
 Bat
