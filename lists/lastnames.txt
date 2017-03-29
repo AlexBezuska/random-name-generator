@@ -196,6 +196,19 @@ Goat
 Goldfish
 Goose
 Monster
+Ngo
+Pham
+Pho
+Sandwhich
+Noodles
+Ravioli
+Wilds
+Laptop
+Boo
+Sasparilla
+Silverfish
+Cave Cricket
+
 Gopher
 Gorilla
 Grasshopper
@@ -375,10 +388,9 @@ Rhinoceros
 Right whale
 Roadrunner
 Rodent
-Rook
 Rooster
 Roundworm
-cat
+Cat
 Sailfish
 Salamander
 Salmon
@@ -541,3 +553,7 @@ Peeler of the potatoes
 Kazooie
 Tooie
 Enforcer
+Because of the Way I Play Jazz
+Goods
+Bat
+360

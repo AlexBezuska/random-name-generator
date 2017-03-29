@@ -202,15 +202,77 @@ Rambunctious
 Clever girl
 Hasty
 Big
+Logical
+Brainlord
+Destroyer
+Conquerer
+Messy
+Little Old
 Little
 Small
 Tiny
+Boardmember
+Club Member
+Club Owner
+Home Owner
+Interesting
+Truly Strange
+Oddly Satisfying
+Strangely Appealing
 Teensy
 Lil
+Greybearded
+Unibrow
+GMO Free
+Cage Free
+Free Range
+Ornate
+Grave Robber
+High Chieftain
+Grandmaster
+Chessmaster
+Front-End Developer
+Art
+Flavormaster
+Flavor Lord
+Gardener
+Insensitive
+Senior Citizen
+Ambassador from Cleveland
+Outlaw
+Renegade
+Sloppy
+Slumlord
+Basketball Man
 Hot headed
+Project Manager
+Server
+Waiter
+Ticket Booth Attendant
+Keymaster
+Gatekeeper
+Phone Operator
+Pediatrist
+Cardiologist
+Endocronologist
+Omega
+Mega
+Ultra
+Insanity
+Insane
+Unsanitary
+Ancelary
+Excessive
 Farmer
 Actor
 Idea Guy
+Moldy
+Clapping
+Energized
+Jazzmaster
+Pianist
+Jazzcat
+Hipster
 That Guy
 That Gal
 Dearest
@@ -218,3 +280,8 @@ Honey Dearest
 Dear Friend
 Confidant
 Companion
+Best Ever
+Good
+Bad Boy
+Bad Girl
+Mean old
