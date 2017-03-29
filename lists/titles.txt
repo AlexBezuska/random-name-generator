@@ -285,3 +285,24 @@ Good
 Bad Boy
 Bad Girl
 Mean old
+Daughter of
+Grandson of
+GrandFather of
+Sticky
+Astronaut
+Cosmonaut
+Russian Cosmonaut
+Astronomer
+Aircraft Mechanic
+Space Actuary
+TSA Agent
+CIA Agent
+Space FBI Agent
+Chiropractor
+Consultant
+Dental Hygienist
+Last Samurai
+Parent of
+Fashion Designer
+Guidance Counselor
+Rocket-Powered

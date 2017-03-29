@@ -44,8 +44,6 @@ Superior
 Suburban
 Urban
 Downtown
-Kelpy
-Gulpy
 Flappy
 Irregular
 Oblong
@@ -56,3 +54,16 @@ Evening Wear
 Stinky
 Muddy
 Angular
+Rotating
+Oscillating
+Gyrating
+Spinning
+Tessellating
+Concentric
+Unsightly
+Gusty
+Glistening
+Vast
+Whispering
+Gorgeous
+Gregorian

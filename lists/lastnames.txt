@@ -261,15 +261,18 @@ Krill
 Ladybug
 Lamprey
 Landfowl
-snail
+Snail
 Lark
+Table Salt
+Bread Slice
+Trashbag
 Leech
 Lemming
 Lemur
 Leopard
 Leopon
 Trumpet
-Claronet
+Clarinet
 Saxophone
 Graham
 Holand
@@ -557,3 +560,4 @@ Because of the Way I Play Jazz
 Goods
 Bat
 360
+Dealer for the People

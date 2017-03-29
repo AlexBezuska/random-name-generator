@@ -14,14 +14,53 @@ Sunrise
 Township
 Planetoid
 Sector
+Patch
+Nebuloid
+Planetoid
+Meteor
+Asteroid
+Motherland
 Hamlet
 Nursery
+Cyberworld
+Icy Rock
+Star
+Sun
+Moon
+Black Hole
+Hole
+Vortex
+Nebulon
+Tetrazoid
+Dodecahedron
+Hydrosphere
+Gas Giant
+Winnipeg
+Dependency
+Territory
 Italy
 Spain
 France
 Fragment
 Nebula
+Station
+Space Station
+Colony
+Base
+Space Base
 Region
+Hemorrhoid
+Universe
+Megaverse
+Metaverse
+Cyberverse
+Superverse
+Tetraverse
+Gammaverse
+Neuroverse
+Hivemind
+Nebula
+Singularity
 Precinct
 Cloud
 Astral Body
@@ -42,5 +81,33 @@ Dust Collection
 Cosmos
 Cosmic Rift
 Galaxy
-satellite
+Satellite
 Home
+Debris Field
+area
+Area
+Country
+Enclave
+Field
+Nation
+Neighborhood
+Province
+Sector
+State
+Street
+Terrain
+Zone
+Block
+Boundary
+Commonwealth
+Dominion
+Empire
+Expanse
+Extent
+Quarter
+Municipality
+Section
+Township
+Tract
+Neck of the Woods
+Stomping Grounds
