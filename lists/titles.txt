@@ -22,6 +22,7 @@ Chef
 Sidecar
 His Excellency
 Her Excellency
+Heir to the Throne
 Supreme Darklord
 Most Revered
 Highly Recommended
@@ -41,7 +42,7 @@ Your Favorite
 Your Brother the
 Big Sis
 Lowly
-Exhalted
+Exalted
 King
 Queen
 Dutchess
@@ -59,7 +60,7 @@ Coworker
 Buddy
 Mother
 Sister
-Your Newphew
+Your Nephew
 Aunt
 Ye Old
 Mister
@@ -95,12 +96,12 @@ Mayor
 Grand Master
 Lady
 Prime Minister
-The Most Honourable
+The Most Honorable
 Vice Secretary
 Miss
 Little Miss
 Barron
-Barroness
+Baroness
 Seductress
 Louisvillian
 Tennis instructor
@@ -119,7 +120,7 @@ The unusual
 Dance Instructor
 Yoga Instructor
 Yogurt Instructor
-Chieftan
+Chieftain
 Merchant
 Race car driver
 Garbage man
@@ -149,6 +150,7 @@ Your old aunt
 Your old uncle
 Grandpa
 Grandma
+Swamp Dweller
 Father
 Plainswalker
 Horse whisperer
@@ -159,7 +161,7 @@ Cookie baker
 Pie master
 Road warrior
 Tugboat captain
-Signmaker
+Sign-maker
 Arborist
 Glass blower
 Scientist
@@ -176,7 +178,7 @@ Co pilot
 Restroom attendant
 Concierge
 Robotic
-Cybertenic
+Cybernetic
 Cyber terror
 Environmentalist
 Chief Justice
@@ -203,6 +205,7 @@ Clever girl
 Hasty
 Big
 Logical
+Composite Minister
 Brainlord
 Destroyer
 Conquerer
@@ -211,7 +214,8 @@ Little Old
 Little
 Small
 Tiny
-Boardmember
+Board Member
+Cult Leader
 Club Member
 Club Owner
 Home Owner
@@ -221,7 +225,7 @@ Oddly Satisfying
 Strangely Appealing
 Teensy
 Lil
-Greybearded
+Grey-bearded
 Unibrow
 GMO Free
 Cage Free
@@ -230,10 +234,10 @@ Ornate
 Grave Robber
 High Chieftain
 Grandmaster
-Chessmaster
+Chess Master
 Front-End Developer
 Art
-Flavormaster
+Flavor Master
 Flavor Lord
 Gardener
 Insensitive
@@ -249,19 +253,19 @@ Project Manager
 Server
 Waiter
 Ticket Booth Attendant
-Keymaster
+Key Master
 Gatekeeper
 Phone Operator
 Pediatrist
 Cardiologist
-Endocronologist
+Endocrinologist
 Omega
 Mega
 Ultra
 Insanity
 Insane
 Unsanitary
-Ancelary
+Ancillary
 Excessive
 Farmer
 Actor
