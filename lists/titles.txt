@@ -81,15 +81,140 @@ Don
 Earl
 Marshal
 Elder
-Foreign minister
+Foreign Minister
 Senator
 Vice President
+Price Reducer
+Dealer For the People
+Bag Boy
+Cart Grabber
+Gopher
+Intern
 Governor
 Mayor
 Grand Master
 Lady
-Prime minister
+Prime Minister
 The Most Honourable
 Vice Secretary
 Miss
 Little Miss
+Barron
+Barroness
+Seductress
+Louisvillian
+Tennis instructor
+Major
+Lieutenant governor
+Detective
+Postmaster
+Postmaster general
+Postman
+Post woman
+Flight attendant
+Designer
+The honorable
+The respectable
+The unusual
+Dance Instructor
+Yoga Instructor
+Yogurt Instructor
+Chieftan
+Merchant
+Race car driver
+Garbage man
+Garbage woman
+Two
+Loan officer
+Loan shark
+Local
+Constable
+Sherif
+Deputy
+The unexpected
+The intolerant
+The intolerable
+Pirate
+First mate
+The incredible
+The somewhat awkward
+Old timer
+The sometimes absent
+Taxi driver
+Pizza delivery
+Bill collector
+Sous chef
+Bartender
+Your old aunt
+Your old uncle
+Grandpa
+Grandma
+Father
+Plainswalker
+Horse whisperer
+Cat lady
+Professor
+Gas station attendant
+Cookie baker
+Pie master
+Road warrior
+Tugboat captain
+Signmaker
+Arborist
+Glass blower
+Scientist
+Florist
+Officiant
+Lawyer
+Undertaker
+Diplomat
+Cliff diver
+Balloonist
+Aviator
+Pilot
+Co pilot
+Restroom attendant
+Concierge
+Robotic
+Cybertenic
+Cyber terror
+Environmentalist
+Chief Justice
+Judge
+Reseller
+Librarian
+Zookeepers
+Zooologist
+Scientologist
+Meter maid
+Dependable
+Long-lasting
+Viceroy
+Handmaiden
+Wet nurse
+Midwife
+Ornery
+Angry
+Happy
+Slippery
+Tawdry
+Rambunctious
+Clever girl
+Hasty
+Big
+Little
+Small
+Tiny
+Teensy
+Lil
+Hot headed
+Farmer
+Actor
+Idea Guy
+That Guy
+That Gal
+Dearest
+Honey Dearest
+Dear Friend
+Confidant
+Companion

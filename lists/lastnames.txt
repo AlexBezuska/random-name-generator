@@ -51,12 +51,10 @@ leopard
 Albatross
 Alligator
 Alpaca
-
 buffalo
 robin
 Amphibian
 Gold
-Wedge
 Anaconda
 Angelfish
 Anglerfish
@@ -105,7 +103,7 @@ Bug
 Butterfly
 Buzzard
 Camel
-Canid
+Canine
 buffalo
 Capybara
 Cardinal
@@ -257,7 +255,14 @@ Lemming
 Lemur
 Leopard
 Leopon
-Limpet
+Trumpet
+Claronet
+Saxophone
+Graham
+Holand
+Fingers
+Keyboard
+Keys
 Lion
 Lizard
 Llama
@@ -267,6 +272,10 @@ Loon
 Louse
 Lungfish
 Lynx
+Games
+Rooster
+Hen
+tronaut
 Macaw
 Mackerel
 Magpie
@@ -522,3 +531,13 @@ Belk
 Boy
 Staple
 Streep
+Glover
+Here with your pizza
+The younger
+The elder
+On the phone for you
+Winner of the hotdog eating contest
+Peeler of the potatoes
+Kazooie
+Tooie
+Enforcer

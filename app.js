@@ -30,13 +30,13 @@ function generateName(parts) {
 function makeList(file) {
   return fs.readFileSync(file).toString().trim().split("\n");
 }
-var results = 15;
+var results = 30;
 
 console.log("Room possibilities: ", prefixes.length * descriptives.length * places.length * suffixes.length);
 for (var i = 0; i < results; i++){
-  console.log("Room: ", generateName([prefixes, descriptives, places, suffixes]));
+  console.log(generateName([prefixes, descriptives, places, suffixes]));
 }
 console.log("User possibilities: ", titles.length * firstname.length * lastname.length);
 for (var i = 0; i < results; i++){
-  console.log("User: ", generateName([titles, firstname, lastname]));
+  console.log(generateName([titles, firstname, lastname]));
 }
