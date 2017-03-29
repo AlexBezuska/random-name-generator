@@ -22,7 +22,7 @@ Badlands
 Salt Flats
 Flats
 Battlefield
-PentaGon
+Pentagon
 Decagon
 Squaragon
 Nonagon

@@ -116,10 +116,17 @@ Tunnel
 Volt
 Spark
 Armored
-Launch
-Boomer
 Sting
 Storm
+Gruac
+Forrest
+Wackson
+Vertebrae
+Hamuel
+Parl
+LOL
+haha
+Timney
 Flame
 Mr. Bob
 Alfronzo
@@ -202,8 +209,6 @@ Nobou
 Pepe
 Juan
 Ahmed
-Duc
-Tong
 Bruce
 Campbell
 Neon
@@ -223,4 +228,4 @@ Spark
 Stinging
 Chill
 Honey
-Dancer
+Dancing

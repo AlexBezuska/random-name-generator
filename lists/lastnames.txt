@@ -5,7 +5,7 @@ Turt
 Robot
 Bot
 Fietti
-Siad
+Salad
 of majesty
 MD
 Yeti
@@ -529,6 +529,11 @@ Wildfowl
 Wolf
 Wolverine
 Wombat
+Billiam
+Yeonard
+BBQ
+ROFL
+Sason
 Woodpecker
 Hybrid SemiHuman
 Worm
@@ -537,6 +542,7 @@ Daboleena
 fish
 Gusto
 Gusta
+in a Blender
 Yak
 perch
 Zebra

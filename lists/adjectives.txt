@@ -79,6 +79,7 @@ Rad
 Super-Massive
 Extra-Small
 Hadron
+Abrasive
 Teeny
 Teensy
 Greasy
@@ -89,6 +90,7 @@ Boring
 Sweet
 Salty
 Gyrating
+Sizzurup
 Spinning
 Tessellating
 Concentric
