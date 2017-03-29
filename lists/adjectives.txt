@@ -68,7 +68,7 @@ Indescribable
 Professionally-Made
 Well-Constructed
 Overpriced
-UnderAchieving
+Under-Achieving
 First Class
 Top Shelf
 Deluxe
@@ -78,11 +78,13 @@ Acceptable
 Rad
 Super-Massive
 Extra-Small
+Hadron
 Teeny
 Teensy
 Greasy
 Repulsive
 Unimportant
+Toxic-Waste
 Boring
 Sweet
 Salty
@@ -97,6 +99,9 @@ Vast
 Whispering
 Gorgeous
 Gregorian
+Grease-Fire
+Gas-Powered
+Bicycle-Powered
 Rocket-Powered
 Intuitive
 Melancholy

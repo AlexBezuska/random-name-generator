@@ -153,7 +153,7 @@ Your Old Aunt
 Your Old Uncle
 Grandpa
 Grandma
-Swamp Dweller
+Swamp-Dweller
 Father
 Plainswalker
 Horse Whisperer
@@ -243,19 +243,37 @@ High Chieftain
 Grandmaster
 Chess Master
 Front-End Developer
-Art
+Highschooler
+Middleschooler
+Schoolkid
+Cloud-Morph
+Necromancer
+Space Expert
+Businessman
+Dance-off Champion
+World-Class
 Flavor Master
 Flavor Lord
+Luxurious
+The Always Inquisitive
+Winner of the Spelling Bee
 Gardener
 Insensitive
+Everybody Loves
+Vote for
+My Son
+Hard-Working
+Youth Basketball Coach
+I Voted for
 Senior Citizen
+Cyber-Citizen
 Ambassador from Cleveland
 Outlaw
 Renegade
 Sloppy
 Slumlord
 Basketball Man
-Hot headed
+Hot-Headed
 CEO of the Company
 Project Manager
 Server
@@ -334,14 +352,14 @@ A Date with
 Eco Terrorist
 Part Human
 The Cyborged
-A Clone of
-The 2nd Clone of
-The 3rd Clone of
-The 4th Clone of
-The 5th Clone of
-The 6th Clone of
-The 7th Clone of
-The 9th Clone of
+A Only Successful Clone of
+The 2nd Unsuccessful Clone of
+The 3rd Unsuccessful Clone of
+The 4th Unsuccessful Clone of
+The 5th Unsuccessful Clone of
+The 6th Unsuccessful Clone of
+The 7th Unsuccessful Clone of
+The 9th Unsuccessful Clone of
 Parent of
 Space Pope
 Fashion Designer
@@ -351,6 +369,7 @@ Rocket-Powered
 Intuitive
 Melancholy
 Infant
+Gas-Powered
 Newborn
 Sapling
 Seedling
@@ -362,15 +381,36 @@ Mutant
 Lethal Enforcer
 Cyber Challenger
 Mutant Avenger
+Detective
+Secret Agent
+Arch Darklord
+Mr.
+The Fraudulent Behavior of
 Super-Mutant
 Cyber-Mutant
+Cyber DJ
+DJ
+MC
+Performing Artist
+Magician
 Ancient
 Super
 Genetically-Modified
 Cyber-Security Officer
 Technologically-Advanced
 Ancient Technology
+The Multi-Talented
+Sopping Wet
 Difficult
 Introverted
 NanoMachine-Covered
 Swarm of
+An Entire Swarm of
+Inverted
+Mr.
+Mister
+Misses
+Demon Slayer
+Bounty Hunter
+Professional Bounty Hunter
+Hey Look it's

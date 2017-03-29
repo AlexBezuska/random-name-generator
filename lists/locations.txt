@@ -35,6 +35,8 @@ Cone-World
 Rhombus
 Megallelogram
 Parallelogram
+Hyper-Cube
+Hyper-Verse
 Broken-Down Van
 Sunrise
 Township
@@ -59,6 +61,11 @@ Cyberworld
 Icy Rock
 Star
 Sun
+Space-Capades
+Skating Rink
+Microwave
+Dump
+Dumpsite
 Moon
 Black Hole
 Hole
@@ -131,6 +138,7 @@ Street
 Terrain
 China
 Japan
+Super-Collider
 Mongolia
 Barbados
 Zone

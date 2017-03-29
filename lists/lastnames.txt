@@ -66,24 +66,43 @@ Anglerfish
 Ant
 Anteater
 Antelope
-Antlion
+Pillbug
+BeetleBorg
 Ape
 Aphid
 Leopard
 Fox
+Floating in Space
 Wolf
 Armadillo
 Crab
 Asp
 Donkey
 Beefalo
+CyberDroid
+Elbow
+Droid Army
+Clone Battalion
+Clone Army
+Clone Navy
+Space Brick
+With a Leaf-Blower Strapped to it
+Pair of Actual Shorts
+Cyborg
+Mechanical Person
+Bionic Person
 Baboon
+Knocking at The Front Door
 Badger
-eagle
+Eagle
+Treefolk
 Bandicoot
 Barnacle
+Fence Post
 Barracuda
 Basilisk
+Recently Found in Space
+Crawling with Nanites
 Bass
 Bat
 whale
@@ -109,7 +128,7 @@ Butterfly
 Buzzard
 Camel
 Canine
-buffalo
+CyberBuffalo
 Capybara
 Cardinal
 Caribou
@@ -465,8 +484,8 @@ Swordfish
 Swordtail
 Tapir
 Tarantula
-Tarsier
-stabby
+Tracker
+McStabby
 Termite
 Tern
 Thrush
@@ -511,21 +530,31 @@ Wolf
 Wolverine
 Wombat
 Woodpecker
+Hybrid SemiHuman
 Worm
 Wren
+Daboleena
 fish
+Gusto
+Gusta
 Yak
 perch
 Zebra
 finch
 household pest
-poisonous
+Poison Berry
+FM
 Alpaca
 Cat
 Cattle
+McBabies
+Mc
 Chicken
+Wiley
 Dog
 Theepwood
+Snatcher
+Thief
 Shaeffer
 Camel
 Canary
@@ -583,9 +612,16 @@ Goods
 Bat
 360
 Dealer for the People
+Pharoah
 Human Being
 Human
 DaRude
 Human Child
 Without it's Baby Teeth
 Made of People
+Molerat
+Made of Teeth
+Made of Bones
+Made of Skin
+Made of Dreams
+Made of Stardust
