@@ -30,11 +30,13 @@ Cattle
 Dog
 Donkey
 Goat
-pig
+Longface
 Horse
 Pig
 Rabbit
-rat
+RatBeast
+Beat
+The Drop
 Lurching for Safety
 Sheep
 Chicken
@@ -43,17 +45,21 @@ Goose
 Pigeon
 Turkey
 Aardvark
-Aardwolf
-buffalo
-elephant
-leopard
+Werewolf
+Monstrosity
+Slimebeast
+CyberShrimp
+Towel
+Buffalo
+Elephant
+Leopard
+Furious
 Albatross
 Alligator
 Alpaca
-buffalo
-robin
+Buffalo
+Robin
 Amphibian
-Gold
 Anaconda
 Angelfish
 Anglerfish
@@ -63,11 +69,11 @@ Antelope
 Antlion
 Ape
 Aphid
-leopard
+Leopard
 Fox
 Wolf
 Armadillo
-crab
+Crab
 Asp
 Donkey
 Beefalo
@@ -135,7 +141,8 @@ Cow
 Coyote
 Crab
 Crane
-fly
+Fly
+BeeZord
 Crawdad
 Crayfish
 Cricket
@@ -147,6 +154,7 @@ Damselfly
 Deer
 Dingo
 Dinosaur
+Dino
 Dog
 Dolphin
 Donkey
@@ -180,9 +188,8 @@ Flyingfish
 Fowl
 Fox
 Frog
-bat
+Bat
 Gamefowl
-Galliform
 Gazelle
 Gecko
 Gerbil
@@ -198,7 +205,7 @@ Monster
 Ngo
 Pham
 Pho
-Sandwhich
+Sandwich
 Noodles
 Ravioli
 Wilds
@@ -207,27 +214,24 @@ Boo
 Sasparilla
 Silverfish
 Cave Cricket
-
+on Toast
 Gopher
 Gorilla
 Grasshopper
-heron
+Beak
 shark
 bear
-shark
-sloth
-Grouse
-Guan
-Guanaco
+Shark
+Sloth
 Guineafowl
-pig
+Pig
 Gull
 Guppy
 Haddock
 Halibut
-shark
+Shark
 Hamster
-Hare
+Truck
 Harrier
 Hawk
 Hedgehog
@@ -243,11 +247,13 @@ Hummingbird
 whale
 Hyena
 Iguana
-Impala
+Deer
+Sword
+Spiderbones
 Jellyfish
 Jackal
 Jaguar
-Jay
+Shack
 Jellyfish
 Junglefowl
 Kangaroo
@@ -329,8 +335,8 @@ quail
 Nightingale
 Ocelot
 Octopus
-quail
-toupe
+Quail
+Toupe
 Opossum
 Orangutan
 Orca
@@ -342,23 +348,36 @@ Panda
 Panther
 Parakeet
 Parrot
+Ravioli
 Parrotfish
+Ziti
 Partridge
+Rigatoni
+Gnocchi
+Baguette
 Peacock
+Tortellini
 Peafowl
+Biscuit
+Bun
 Pecan
+Scone
 Pelican
 Penguin
+Cavatappi
+Bagel
 Perch
+Fettuccine
 falcon
 Pheasant
 Pig
 Pigeon
 Mushroom
 Pike
+Lasagne
 whale
 Piranha
-mansplainer
+Mansplainer
 Platypus
 bear
 Pony
@@ -551,6 +570,7 @@ Glover
 Here with your pizza
 The younger
 The elder
+With Diplomatic Immunity
 On the phone for you
 Winner of the hotdog eating contest
 Peeler of the potatoes
@@ -563,3 +583,9 @@ Goods
 Bat
 360
 Dealer for the People
+Human Being
+Human
+DaRude
+Human Child
+Without it's Baby Teeth
+Made of People

@@ -42,7 +42,7 @@ function generateName(parts) {
 Logs a sample group of names to the console
 */
 var results = 30;
-console.log("Locations:");
+console.log("Locations:\n```");
 for (var i = 0; i < results; i++) {
   var locationName = generateName(
     [
@@ -55,7 +55,7 @@ for (var i = 0; i < results; i++) {
   console.log(locationName);
 }
 
-console.log("Users:");
+console.log("```\nUsers:\n```");
 for (var i = 0; i < results; i++) {
   var userName = generateName(
     [
@@ -67,3 +67,4 @@ for (var i = 0; i < results; i++) {
   );
   console.log(userName);
 }
+console.log("```");

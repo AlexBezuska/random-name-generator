@@ -26,12 +26,18 @@ Macabre
 Desaturated
 Bohemian
 Insidious
+Ancestral
+NanoMachine-Covered
 Zesty
 Old Folk's
 The Touristy Part of
 Deep Dark Red
 Space
+The
 Federated
+Ultra-Detonated
+Exploded
+Imploded
 Diplomatic Republic of
 Regional District of
 The Planet of
@@ -42,6 +48,7 @@ The People's Republic of
 Formally Known as the
 Splashed
 Speckled
+Restricted Access Zone
 Mottled
 Spicy
 Bezier

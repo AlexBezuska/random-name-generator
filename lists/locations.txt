@@ -10,9 +10,39 @@ Fork
 Farm
 Homeworld
 Homeland
+Demonworld
+Dark Net
+Underworld
+Dimension
+SemiDeminsion
+PsuedoDeminsion
+Psuedoplanet
+Bowl
+Badlands
+Salt Flats
+Flats
+Battlefield
+PentaGon
+Decagon
+Squaragon
+Nonagon
+Squaretangle
+Nanogon
+Ellipse
+Orbit
+Parallelogram
+Cone-World
+Rhombus
+Megallelogram
+Parallelogram
+Broken-Down Van
 Sunrise
 Township
 Planetoid
+Heptagon
+Helptogon
+Spider-World
+Psuedo-Planetoid
 Sector
 Patch
 Persei
@@ -99,6 +129,10 @@ Sector
 State
 Street
 Terrain
+China
+Japan
+Mongolia
+Barbados
 Zone
 Block
 Boundary
@@ -111,7 +145,14 @@ Quarter
 Municipality
 Section
 Township
+Nest
+Mound
+Garbage Patch
+Trash Heap
+Heap
+Patch
 Tract
 Neck of the Woods
 Stomping Grounds
 Factory
+Tiger Nest

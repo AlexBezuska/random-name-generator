@@ -135,36 +135,36 @@ Local
 Constable
 Sherif
 Deputy
-The unexpected
-The intolerant
-The intolerable
+The Unexpected
+The Intolerant
+The Intolerable
 Pirate
 First mate
-The incredible
-The somewhat awkward
-Old timer
-The sometimes absent
-Taxi driver
-Pizza delivery
-Bill collector
-Sous chef
+The Incredible
+The Somewhat Awkward
+Old Timer
+The Sometimes Absent
+Taxi Driver
+Pizza Delivery
+Bill Collector
+Sous Chef
 Bartender
-Your old aunt
-Your old uncle
+Your Old Aunt
+Your Old Uncle
 Grandpa
 Grandma
 Swamp Dweller
 Father
 Plainswalker
-Horse whisperer
-Cat lady
+Horse Whisperer
+Cat Lady
 Professor
-Gas station attendant
-Cookie baker
-Pie master
-Road warrior
-Tugboat captain
-Sign-maker
+Gas Station Attendant
+Cookie Baker
+Pie Master
+Road Warrior
+Tugboat Captain
+Sign-Maker
 Arborist
 Glass blower
 Scientist
@@ -173,16 +173,16 @@ Officiant
 Lawyer
 Undertaker
 Diplomat
-Cliff diver
+Cliff Diver
 Balloonist
 Aviator
 Pilot
-Co pilot
-Restroom attendant
+Co Pilot
+Restroom Attendant
 Concierge
 Robotic
 Cybernetic
-Cyber terror
+Cyber Terror
 Environmentalist
 Chief Justice
 Judge
@@ -204,13 +204,16 @@ Happy
 Slippery
 Tawdry
 Rambunctious
-Clever girl
+Clever Girl
 Hasty
 Big
 Logical
 Composite Minister
 Brainlord
 Destroyer
+Ultra-Detonated
+Exploded
+Imploded
 Conquerer
 Messy
 Little Old
@@ -228,6 +231,7 @@ Oddly Satisfying
 Strangely Appealing
 Teensy
 Lil
+Toasted
 Grey-bearded
 Unibrow
 GMO Free
@@ -252,6 +256,7 @@ Sloppy
 Slumlord
 Basketball Man
 Hot headed
+CEO of the Company
 Project Manager
 Server
 Waiter
@@ -260,6 +265,13 @@ Key Master
 Gatekeeper
 Phone Operator
 Pediatrist
+Bi-Pedal
+Tri-Pedal
+Quadroped
+Mermaid
+Merman
+Bird-Beaked
+Robo-Pediatrist
 Cardiologist
 Endocrinologist
 Omega
@@ -297,19 +309,68 @@ Grandson of
 GrandFather of
 Sticky
 Astronaut
+Evil Astronaut
 Cosmonaut
 Russian Cosmonaut
 Astronomer
 Aircraft Mechanic
 Space Actuary
 TSA Agent
+Cousin
+The Uncanny
+The Undeniable
 CIA Agent
 Space FBI Agent
 Chiropractor
 Consultant
+Cyber-Bully
+Cyber-Expert
+Don't Mess With
 Dental Hygienist
 Last Samurai
+Outlaw
+Illegal
+A Date with
+Eco Terrorist
+Part Human
+The Cyborged
+A Clone of
+The 2nd Clone of
+The 3rd Clone of
+The 4th Clone of
+The 5th Clone of
+The 6th Clone of
+The 7th Clone of
+The 9th Clone of
 Parent of
+Space Pope
 Fashion Designer
 Guidance Counselor
+Dark Guidance Counselor
 Rocket-Powered
+Intuitive
+Melancholy
+Infant
+Newborn
+Sapling
+Seedling
+Brood of
+Young
+Thinking
+Extraverted
+Mutant
+Lethal Enforcer
+Cyber Challenger
+Mutant Avenger
+Super-Mutant
+Cyber-Mutant
+Ancient
+Super
+Genetically-Modified
+Cyber-Security Officer
+Technologically-Advanced
+Ancient Technology
+Difficult
+Introverted
+NanoMachine-Covered
+Swarm of

@@ -10,6 +10,7 @@ Evil
 Messy
 Back
 Red
+Sushi
 Serpent
 Mountain
 Sand
@@ -96,3 +97,13 @@ Vast
 Whispering
 Gorgeous
 Gregorian
+Rocket-Powered
+Intuitive
+Melancholy
+Infant
+Young
+Thinking
+Extraverted
+Difficult
+Wintery
+Blustery
