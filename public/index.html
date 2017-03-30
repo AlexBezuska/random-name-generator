@@ -14,14 +14,23 @@
   <div class="container">
 
       <div class="form">
-          <input type="text" id="usernameDisplay" placeholder="username"/>
+          <div class="name" id="usernameDisplay"></div>
           <button id="usernameBtn">Generate username</button>
       </div>
 
       <div class="form">
-          <input type="text" id="locationDisplay" placeholder="location"/>
+          <div class="name" id="locationDisplay"></div>
           <button id="locationBtn">Generate location</button>
       </div>
+
+      <h3>REST API Endpoints:</h3>
+      <p>API URL:</p>
+      <pre>http://duolastic-namegen.twoscoopgames.com</pre>
+      <p>Return one username:</p>
+      <pre>/username</pre>
+      <p>Return one location:</p>
+      <pre>/location</pre>
+
 
 <p>2017 Alex Bezuska - Open Source on <a href="https://github.com/TwoScoopGames/Duolastic-name-generator"> Github</div></p>
   </div>
@@ -37,7 +46,7 @@ function uiSetup(buttonId, textfieldId, url){
       if (err != null) {
         alert('Something went wrong: ' + err);
       } else {
-        document.getElementById(textfieldId).value = data;
+        document.getElementById(textfieldId).innerText = data;
       }
     });
   });

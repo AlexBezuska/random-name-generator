@@ -71,6 +71,7 @@ Gregorian
 Gusty
 Gyrating
 Hadron
+Anthropomorphic
 Hand-Crafted
 Happy
 Hazy
@@ -84,6 +85,7 @@ Indescribable
 Infant
 Insane
 Insanity
+Sweet-Natured
 Interesting
 Intuitive
 Inverted
