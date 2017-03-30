@@ -4,6 +4,7 @@ Aardvark
 Albatross
 Alligator
 Alpaca
+Alpacazord
 Amoebas
 Amphibian
 Anaconda
@@ -86,9 +87,18 @@ Cicada
 Clam
 Clarinet
 Clay
-Clone Army
-Clone Battalion
-Clone Navy
+of the Clone Army
+of the Clone Battalion
+of the Clone Navy
+Leader of the Clone Army
+Leader of the Clone Battalion
+Leader of the Clone Navy
+Clone Army Lawyer
+Clone Battalion Lawyer
+Clone Navy Lawyer
+Dentist for the Clone Army
+Dentist for the Clone Battalion
+Dentist for the Clone Navy
 Clownfish
 Cluster of Amoebas
 Cobra
@@ -149,7 +159,7 @@ Elephant
 Elk
 Emu
 Enforcer
-Ermine
+Mold Fiend
 Esquire
 esquire
 falcon
@@ -174,7 +184,7 @@ FM
 Fowl
 fox
 Fox
-frog
+Frogling
 Frog
 from the future
 from the past
@@ -219,7 +229,6 @@ Hammond
 Hamster
 Harrier
 Hawk
-hedgehog
 Hedgehog
 Hen
 Here with your pizza
@@ -283,7 +292,7 @@ Love
 Lungfish
 Lurching for Safety
 Lynx
-Macaw
+ParrotBorg
 Machine
 Mackerel
 Made of Bones
@@ -399,17 +408,40 @@ Poison Berry
 Pony
 Porcupine
 Porpoise
+With a Jetpack
+With a Rocket Strapped to it
+With Ice Skates
+On a Pogo Stick
+Author of the Hungry Games Trilogy
+With no Pants
+is Why We Can't Have Nice Things
 Possum
 Prawn
 Primate
+Face
+Fingers
+Left Arm
+With Ginormous Antlers
+With a Fish in it's Mouth
+With Grease All Over it
+With Extra Limbs
+With a Larger Than Average Tongue
 ProtoFist
 Puffin
 Puma
+PumaDroid
 Python
-quail
+from That Reality TV Show
+Recently Escaped from Prison
 Quail
-Quokka
-rabbit
+Recently Escaped from Jail
+Recently Escaped from Space Prison
+Recently Escaped from Cyber Prison
+Now with Flavor
+With no Human Cells
+Quezacotl
+RobotZebra
+Rabbot
 Rabbit
 Raccoon
 Rat
@@ -425,7 +457,7 @@ Reindeer
 Reptile
 Rhinoceros
 Rigatoni
-Right whale
+Robotto
 Roadrunner
 Robin
 Robot
@@ -514,7 +546,7 @@ The younger
 Theepwood
 Thief
 Thomas
-Thrush
+Can-Crushers
 Tick
 Tiger
 Toad
@@ -546,11 +578,28 @@ Vicuna
 Viper
 Virus
 Vole
+Nugget
+Burglar
+Mary
+Boop Boop
+Fashir
+McMimes
+DeLeon
+Dantreeb
+Borg Queen
+Weeb
+Lostich
+Stephanopoulos
+Investor
+Turd
 Vulture
 Wallaby
 Walrus
 Wampire
+Folim
+Slomez
 Warbler
+Foosh
 Wasp
 Weasel
 Werewolf
@@ -559,9 +608,7 @@ Whale
 Whippet
 Whitefish
 Wildcat
-Wildebeest
 Wildfowl
-Wilds
 Wiley
 Winner of the hotdog eating contest
 With a Leaf-Blower Strapped to it

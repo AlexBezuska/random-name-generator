@@ -3,69 +3,69 @@
 ## Example output:
 Locations:
 ```
-Feline Cloud AARP 65
-Teeny Gaseous Body
-Imploded Extra-Small Precinct of True Emotion
-Artisanal Nebula
-The People's Boring Space Station X
-Classic Evening Wear Crust
-Rocket-Powered Boundary III
-Classic Ultra-New Gas Giant
-Nana Patch Major
-The Touristy Part of Unsightly Salt Flats
-Space Space Territory
-Triangular Planets
-Ancestral Extra-Small Mongolia
-Consensual Laundry Eye
-Inactive Thinking Spain with Feeling This Time
-Butterfly Precinct
-Imploded Melancholy Mongolia
-Entrance to Hazy Extent Major
-UnderAchieving Colony
-Gorgeous Garbage Patch
-Little World
-Clone Township Major
-Stinky Psuedo-Planetoid
-The Mostly Safe Part of Mist China
-Intuitive China
-Bohemian Far Hydrosphere
-Back Hivemind
-Gorgeous Sector
-Blustery Galaxy of Perpetual Wellbeing
-Gray Heap
+Small Mound 7th edition
+Deep Dark Red Spiritual Vortex Birthplace of Abraham Lincoln
+Omega Quadrant
+Speckled Somewhat Awkward Space Cellar
+Wintery Belt
+Robotic Contested Territory
+Spicy Teensy Asteroid Belt
+Chemically-Treated Psuedoplanet (Currently Under Surveillance)
+The Most Seductive Part of Disease-Ridden Persei
+Downtown Crater
+Unworldly Sun
+Spiritual Spider-World
+The Original Microscopic Nonagon
+Space Helptogon
+All Expenses-Paid Round Trip to Slippery Megaverse M82
+Zesty Rotating Whirlpool
+Humid Concentric Hallway of True Emotion
+Luxurious Dumpsite
+Assassin Section
+Small Farm
+Federated Vector Stomping Grounds
+Active Lucky Crater
+The Mostly Safe Part of Astral Territorial Claim (This Must Have Cost a Fortune)
+Mysterious Lunar Palace
+The Upper East Side of Middle-Aged Space Base
+GMO-Free Commonwealth
+Sweet Alabama
+Tessellating Hivemind in Retrograde
+Free Trip to Space Expanse
+The People's Republic of Miniature World
 ```
 Users:
 ```
-Waiter Wesley frog
-Supreme Darklord Huckleberry esquire
-Supreme Darklord Missing Gopher
-Chieftain Reginald Loon
-Second Place Bonnie Skunk
-True Champion Wesley Turt
-Good Gal Rex Glover
-Detective Strawberry Crab
-Race car driver Kim Ray
-Postmaster general Pepe Harrier
-Dental Hygienist Muddy Larry Graham
-The Most Honorable Sneaky Bedbug
-Rocket-Powered Rigatoni Boa
-Melancholy Alex Caribou
-Introverted Casual Longhorn Frog
-Chef Fig of majesty
-Price Reducer Cara Fietti
-Your Nephew Jeffsica Fury
-Destroyer Coconut Gnocchi
-Trustworthy Florence mole
-Your Favorite Tim Rat
-Intuitive Bruce tronaut
-Extraverted Juan Turtle
-Sister Twig Shack
-Friend Jezibel Triceratops
-Mister Tommy rat
-Cyber Terror Upperhand Cuckoo
-First mate Tong Pig
-Miss Pancake pig
-Poorhouse Pip Trumpet
+Repulsive Sara Now with Flavor
+Intern Plum Dentist for the Clone Army
+Space Sarah Snake
+Flavor Lord Ornate Beep Beep Theepwood
+OMG Best in Show Banjo Floating in Space
+Extraverted Nobou Deer
+Bad Boy Horizontal Capellini dove
+Toasted Teeny Jenny Hybrid SemiHuman
+Undertaker Hadron Genetically-Engineered Hornet
+Scientologist Extraverted Cantaloupe Newt
+Vertical Young Matt Love
+Cyberactivist Jax Monkey
+Dutchess Leaf Made of Skin
+Clapping Under-Achieving Sandra With a Larger Than Average Tongue
+Pie Master Vertical Malakhi Caribou
+Cyber DJ Lowly Gravity Face
+Itchy Rad Tomothy Staple
+Insane Grapefruit Pig
+The Desirable Nectarine Panther
+Quite Acceptable Kamini falcon
+Swamp-Dweller Huckleberry Tern
+Insanity Felt-Tipped Cougar
+Ambassador from Cleveland Pineapple Cave Cricket
+Mayor Gas-Powered Malcolm
+Dutchess Lonce Loaf of Bread
+His Excellency Sara spider
+Slappy Hands Oversized Ashley Leader of the Clone Battalion
+Mechanical Mulberry Locust
+Destroyer Regurgitated Morph Puffin
+Cyberartist Charles Chimpanzee
 ```
 
 ## To run:

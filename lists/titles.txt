@@ -136,7 +136,9 @@ Floating Brain of
 Florist
 Folk Hero
 Folk Icon
-Forage Cake
+Foraging
+Lurking
+Skulking
 Foreign Minister
 Formidable
 Free Range
@@ -346,11 +348,20 @@ Ticket Booth Attendant
 Tri-Pedal
 True Champion
 True Gentleman
+Lost
+Bewildered
 True Hero
 Trustworthy
 TSA Agent
+Editor-in-Chief
+Writer of
 Tugboat Captain
+Lifeless
 Turnt Up
+Space Vaping
+Space DJ
+Rainmaker
+Border Security
 Two
 Undead
 Undertaker
