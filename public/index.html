@@ -27,10 +27,9 @@
   </div>
 </body>
 <script>
-var url = "http://localhost:4321/";
 
-uiSetup("usernameBtn", "usernameDisplay", url + "username");
-uiSetup("locationBtn", "locationDisplay", url + "location");
+uiSetup("usernameBtn", "usernameDisplay", "/username");
+uiSetup("locationBtn", "locationDisplay", "/location");
 
 function uiSetup(buttonId, textfieldId, url){
   document.getElementById(buttonId).addEventListener('click', function() {
