@@ -35,21 +35,36 @@
 <p>2017 Alex Bezuska - Open Source on <a href="https://github.com/TwoScoopGames/Duolastic-name-generator"> Github</div></p>
   </div>
 </body>
+
 <script>
+preFill();
 
 uiSetup("usernameBtn", "usernameDisplay", "/username");
 uiSetup("locationBtn", "locationDisplay", "/location");
 
+function preFill(){
+  getJSON("/username", function(err, data) {
+    dataOrError(err, data, "usernameDisplay");
+  });
+  getJSON("/location", function(err, data) {
+    dataOrError(err, data, "locationDisplay");
+  });
+}
+
 function uiSetup(buttonId, textfieldId, url){
   document.getElementById(buttonId).addEventListener('click', function() {
     getJSON(url, function(err, data) {
-      if (err != null) {
-        alert('Something went wrong: ' + err);
-      } else {
-        document.getElementById(textfieldId).innerText = data;
-      }
+      dataOrError(err, data, textfieldId)
     });
   });
+}
+
+function dataOrError(err, data, textfieldId) {
+  if (err != null) {
+    alert('Something went wrong: ' + err);
+  } else {
+    document.getElementById(textfieldId).innerText = data;
+  }
 }
 
 function getJSON(url, callback) {
@@ -66,5 +81,6 @@ function getJSON(url, callback) {
     };
     xhr.send();
 };
+
 </script>
 </html>
