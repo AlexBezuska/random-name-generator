@@ -4,6 +4,7 @@ Aardvark
 Albatross
 Alligator
 Alpaca
+Amoebas
 Amphibian
 Anaconda
 Angelfish
@@ -20,15 +21,14 @@ Badger
 Bagel
 Baguette
 Bandicoot
+Bar of Soap
 Barnacle
 Barracuda
 Basilisk
 Bass
 Bat
-bat
 BBQ
 Beak
-bear
 Bear
 Beat
 Beaver
@@ -37,7 +37,6 @@ Bedbug
 Bee
 Beefalo
 Beetle
-beetle
 BeetleBorg
 BeeZord
 Belk
@@ -45,7 +44,6 @@ Berkus
 Billiam
 Bionic Person
 Bird
-bird
 Biscuit
 Bison
 Boa
@@ -56,7 +54,6 @@ Bot
 Boy
 Bread Slice
 Buffalo
-buffalo
 Bug
 Bun
 Butterfly
@@ -75,6 +72,7 @@ Catshark
 Cattle
 Cavatappi
 Cave Cricket
+Celebrity
 Centipede
 Cephalopod
 Chameleon
@@ -92,6 +90,7 @@ Clone Army
 Clone Battalion
 Clone Navy
 Clownfish
+Cluster of Amoebas
 Cobra
 Cockroach
 Cod
@@ -101,8 +100,8 @@ Coral
 Cougar
 Cow
 Coyote
-crab
 Crab
+crab
 Crane
 crane
 Crawdad
@@ -113,6 +112,7 @@ Crocodile
 Crow
 Crusher
 Cuckoo
+CyberBorg
 CyberBuffalo
 CyberDroid
 CyberShrimp
@@ -130,10 +130,10 @@ Dog
 Dolphin
 Donkey
 Dormouse
-dove
 Dove
-Dragon
+dove
 dragon
+Dragon
 Dragonfly
 Droid Army
 duck
@@ -152,15 +152,15 @@ Enforcer
 Ermine
 Esquire
 esquire
-Falcon
 falcon
+Falcon
 Feet
 Fence Post
 Ferret
 Fettuccine
 Fietti
-finch
 Finch
+finch
 Fingers
 Firefly
 fish
@@ -178,6 +178,8 @@ frog
 Frog
 from the future
 from the past
+Fungal Mass
+Fungus
 Furious
 Fury
 Gallimimus
@@ -205,8 +207,8 @@ Graham
 Grant
 Grasshopper
 Guinea pig
-Guineafowl
 guineafowl
+Guineafowl
 Gull
 Guppy
 Gusta
@@ -255,22 +257,23 @@ Koi
 Krill
 Lab rat
 Ladybug
-Lamprey
 Landfowl
 Laptop
 Lark
 Lasagne
+Lazzaro
 Leech
 Lemming
 Lemur
 Leomancer
-leopard
 Leopard
-Lion
+leopard
 lion
-lizard
+Lion
 Lizard
+lizard
 Llama
+Loaf of Bread
 Lobster
 Locust
 Longface
@@ -281,6 +284,7 @@ Lungfish
 Lurching for Safety
 Lynx
 Macaw
+Machine
 Mackerel
 Made of Bones
 Made of Dreams
@@ -313,17 +317,22 @@ MD
 Meadowlark
 Mechanical Person
 Meerkat
+MegaDroid
+Meta-Contagion
+Meteor Fungus
+Microorganism
 Mink
 Minnow
 Mite
 Mockingbird
-mole
+Mold
 Mole
+mole
 Molerat
 Mollusk
 Mongoose
-monkey
 Monkey
+monkey
 Monster
 Monstrosity
 Moose
@@ -345,6 +354,7 @@ Octopus
 of majesty
 On the phone for you
 on Toast
+Ontario
 Opossum
 Orangutan
 Orca
@@ -353,14 +363,15 @@ Otter
 Owl
 Ox
 Pair of Actual Shorts
-panda
 Panda
+panda
 panther
 Panther
 Parakeet
 Parrot
 Parrotfish
 Partridge
+Pathogenic
 Peacock
 Peafowl
 Pecan
@@ -368,8 +379,8 @@ Peeler of the potatoes
 Peete
 Pelican
 Penguin
-perch
 Perch
+perch
 PH.d
 Pham
 Pharoah
@@ -391,15 +402,15 @@ Porpoise
 Possum
 Prawn
 Primate
-Ptarmigan
+ProtoFist
 Puffin
 Puma
 Python
-Quail
 quail
+Quail
 Quokka
-Rabbit
 rabbit
+Rabbit
 Raccoon
 Rat
 rat
@@ -424,6 +435,7 @@ Rooster
 Roundworm
 Sailfish
 Salad
+Salad Tongs
 Salamander
 Salmon
 salmon
@@ -442,8 +454,8 @@ Seahorse
 seal
 Shack
 Shaeffer
-Shark
 shark
+Shark
 Sheep
 Shrew
 Shrimp
@@ -457,21 +469,23 @@ Sloth
 Slug
 slug
 Smelt
-snail
 Snail
+snail
 Snake
 Snatcher
 Snipe
 Sole
+Space Bacteria
 Space Brick
 Sparrow
 Sperm whale
 spider
 Spider
 Spiderbones
+Spoon
 Spoonbill
-Squid
 squid
+Squid
 Squirrel
 Staple
 Starfish
@@ -487,6 +501,7 @@ Sword
 Swordfish
 Swordtail
 Table Salt
+Tablecloth
 Tapir
 Tarantula
 Teacher
@@ -523,20 +538,24 @@ turkey
 Turkey
 Turt
 Turtle
+Tusk
 Tyrannosaurus
+UltraDroid
 Vermicelli
 Vicuna
 Viper
+Virus
 Vole
 Vulture
 Wallaby
 Walrus
+Wampire
 Warbler
 Wasp
 Weasel
 Werewolf
-Whale
 whale
+Whale
 Whippet
 Whitefish
 Wildcat

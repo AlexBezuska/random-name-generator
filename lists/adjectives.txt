@@ -1,41 +1,66 @@
 Abrasive
 Acceptable
+Ancient
+Ancient Technology
+Ancillary
+Angry
 Angular
 Appalling
 Appealing
 Apple Sauce
+Arborist
 Artisanal
 Assassin
+Astral
 Back
+Best Ever
+Best in Show
 Bicycle-Powered
+Big
+Big Ol
 Bloated
 Blue
 Blustery
 Boring
 Butterfly
 Casual
+Celestial
+Chemically-Treated
 Clone
 Concentric
 Constipated
 Contested
+Creepy
+Cybernetic
+Daintiest
 Danger
 Dapper
 Darkest
+Decomposing
 Deluxe
+Dependable
+Designer
 Difficult
+Disease-Ridden
 Downtown
+Elderly
+Energized
 Evening Wear
 Evil
 Exaggerated
 Extra-Small
 Extraverted
+Fancy
 Far
 Feline
+Final Form of
 First Class
 Flappy
 Floating
 Gas-Powered
 Glistening
+GMO-Free
+Good
 Gorgeous
 Gray
 Grease-Fire
@@ -45,53 +70,83 @@ Gusty
 Gyrating
 Hadron
 Hand-Crafted
+Happy
 Hazy
+Heavenly
+Highly Recommended
 Horizontal
+Illusion
+Imploded
 Impossible
 Indescribable
 Infant
+Insane
+Insanity
 Interesting
 Intuitive
+Inverted
 Irregular
 Itchy
 Large
 Laundry
+Lil
 Little
+Little Old
+Local
+Lowly
+Lucky
+Luxurious
 Massive
+Mega
 Melancholy
 Messy
 Microscopic
+Middle-Aged
 Milky
 Minefield
 Miniature
 Miniscule
-Mist
 Misty
+Moldy
 Most Appealing
 Mountain
 Muddy
+Multidrug-Resistant
+Mutant
+My Favorite
+Mysterious
 Nana
+NanoMachine-Covered
+Newborn
 Oblong
 Ocean
+Oddly Satisfying
 Old Folk's
+Omega
 Omicron
 Organic
+Ornate
 Oscillating
 Overpriced
 Oversized
 Persei
 Pretty Decent
+Procedurally-Generated
 Professionally-Made
 Purple
+Quite Acceptable
 Rad
+Rapidly-Evolving
 Recently Renovated
 Reconstituted
 Reconstructed
 Red
 Regurgitated
+Renegade
 Renovated
 Repulsive
 Reverse
+Robotic
 Rocket-Powered
 Rotating
 Salty
@@ -100,30 +155,55 @@ Serendipitous
 Serpent
 Sizzurup
 Slappy Hands
+Slippery
+Sloppy
+Small
+Somewhat Awkward
+Sopping Wet
 Space
 Spinning
+Spiritual
+Spontaneously-Generated
+Spooky
+Steam-Powered
+Sticky
 Stinky
+Strangely Appealing
 Suburban
 Super
 Super-Deluxe
 Super-Massive
+Super-Mutant
 Superior
 Sushi
 Sweet
+Tawdry
+Technologically-Advanced
 Teensy
 Teeny
 Tessellating
 Thinking
 Tiny
+Toasted
 Top Shelf
 Toxic-Waste
 Triangular
+Tried and True
+Truly Strange
 Turd
 Tuscan
+Ultra
+Ultra-Detonated
 Ultra-New
+Uncanny
+Undeniable
 Under-Achieving
+Unexpected
 Unimportant
+Unsanitary
 Unsightly
+Unusual
+Unworldly
 Urban
 Vast
 Vector
@@ -134,5 +214,7 @@ Water
 Well-Constructed
 Whispering
 Wintery
+World-Class
+Ye Old
 Yellow
 Young

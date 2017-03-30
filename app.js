@@ -1,15 +1,16 @@
 var fs = require('fs');
 
 /* Location lists */
-locationPrefixes = makeList("./lists/location-prefixes.txt");
-adjectives = makeList("./lists/adjectives.txt");
-locations = makeList("./lists/locations.txt");
-locationSuffixes = makeList("./lists/location-suffixes.txt");
+var locationPrefixes = makeList("./lists/location-prefixes.txt");
+var adjectives = makeList("./lists/adjectives.txt");
+var locations = makeList("./lists/locations.txt");
+var locationSuffixes = makeList("./lists/location-suffixes.txt");
 
 /* Username lists */
-titles = makeList("./lists/titles.txt");
-firstnames = makeList("./lists/firstnames.txt");
-lastnames = makeList("./lists/lastnames.txt");
+var titles = makeList("./lists/titles.txt");
+titles = titles.concat(adjectives);
+var firstnames = makeList("./lists/firstnames.txt");
+var lastnames = makeList("./lists/lastnames.txt");
 
 function makeList(file) {
   return fs.readFileSync(file).toString().trim().split("\n");
@@ -56,11 +57,12 @@ for (var i = 0; i < results; i++) {
 }
 
 console.log("```\nUsers:\n```");
+
 for (var i = 0; i < results; i++) {
   var userName = generateName(
     [
       { list: titles, probability: 1 },
-      { list: adjectives, probability: 0.1 },
+      { list: adjectives, probability: 0.5 },
       { list: firstnames, probability: 1 },
       { list: lastnames, probability: 1 }
     ]

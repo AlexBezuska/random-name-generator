@@ -1,18 +1,10 @@
 A Date with
-A Only Successful Clone of
-Abrasive
 Actor
 Aircraft Mechanic
 Ambassador from Cleveland
 An Entire Swarm of
-Ancient
-Ancient Technology
-Ancillary
-Angry
-Arborist
 Arch Darklord
 Archbishop
-Astral
 Astronaut
 Astronomer
 Aunt
@@ -25,11 +17,7 @@ Baroness
 Barron
 Bartender
 Basketball Man
-Best Ever
-Best in Show
 Bi-Pedal
-Big
-Big Ol
 Big Sis
 Bill Collector
 Bird-Beaked
@@ -77,7 +65,6 @@ Cookie Baker
 Cosmonaut
 Cousin
 Coworker
-Creepy
 Cult Leader
 Cyber Challenger
 Cyber DJ
@@ -104,7 +91,6 @@ Cybergirlfriend
 Cyberhero
 Cyberjournalist
 Cyberkid
-Cybernetic
 Cyberpunk
 Dance Instructor
 Dance-off Champion
@@ -115,9 +101,7 @@ Dear Friend
 Dearest
 Demon Slayer
 Dental Hygienist
-Dependable
 Deputy
-Designer
 Destroyer
 Detective
 Difficult
@@ -131,7 +115,6 @@ Earl
 Eco Terrorist
 Elder
 Endocrinologist
-Energized
 Environmentalist
 Ethereal Being
 Everybody Loves
@@ -141,12 +124,10 @@ Exalted
 Excessively Empathetic
 Exploded
 Extraverted
-Fancy
 Farmer
 Fashion Designer
 Father
 Father Figure
-Final Form of
 First mate
 Flavor Lord
 Flavor Master
@@ -165,13 +146,11 @@ Garbage man
 Garbage woman
 Gardener
 Gas Station Attendant
-Gas-Powered
 Gatekeeper
 Genetically-Modified
 Ghost Hunter
 Glass blower
 GMO Free
-Good
 Good Gal
 Good Guy
 Gopher
@@ -186,7 +165,6 @@ Grave Robber
 Grey-bearded
 Guidance Counselor
 Handmaiden
-Happy
 Hard-Working
 Harrowing
 Hasty
@@ -196,7 +174,6 @@ Her Majesty
 Hey Look it's
 High Chancellor
 High Chieftain
-Highly Recommended
 Highschooler
 Hipster
 His Excellency
@@ -209,17 +186,10 @@ Hyper-Evolved
 I Voted for
 Idea Guy
 Illegal
-Illusion
-Imploded
-Infant
-Insane
-Insanity
 Insensitive
-Interesting
 Intern
 Introverted
 Intuitive
-Inverted
 Janitor
 Jazzcat
 Jazzmaster
@@ -234,20 +204,13 @@ Lethal Enforcer
 Librarian
 Lieutenant governor
 Lifelong Friend
-Lil
-Little
 Little Miss
-Little Old
 Loan officer
 Loan shark
-Local
 Local Legend
 Logical
 Long-lasting
 Louisvillian
-Lowly
-Lucky
-Luxurious
 Magician
 Major
 Malevolent
@@ -255,43 +218,32 @@ Marshal
 Mayor
 MC
 Mean old
-Mega
-Melancholy
 Merchant
 Mermaid
 Merman
-Messy
 Meter Maid
 Middleschooler
 Midwife
 Miss
 Misses
 Mister
-Moldy
 Most Especially Adequate
 Most Evolved Form of
 Most Respectable
 Most Revered
 Mother
 Mr.
-Mutant
 Mutant Avenger
-My Favorite
 My Son
 Mystery
-NanoMachine-Covered
 Necromancer
 Netrunner
-Newborn
 Nurse
 Obedient Servant
-Oddly Satisfying
 Officiant
 Offspring of
 Old Timer
-Omega
 OMG
-Ornate
 Ornery
 Outlaw
 Overlord
@@ -323,16 +275,12 @@ Professor
 Project Manager
 Quadroped
 Queen
-Quite Acceptable
 Race car driver
 Rambunctious
 Regent
-Renegade
 Restroom Attendant
 Road Warrior
 Robo-Pediatrist
-Robotic
-Rocket-Powered
 Russian Cosmonaut
 Sapling
 Schoolkid
@@ -353,12 +301,8 @@ Sign-Maker
 Significant Other
 Sir
 Sister
-Slippery
-Sloppy
 Slumlord
-Small
 Sneaky
-Sopping Wet
 Sous Chef
 Space Actuary
 Space Expert
@@ -366,21 +310,13 @@ Space FBI Agent
 Space Pope
 Speedy
 Spirit Tracker
-Spooky
-Steam-Powered
-Sticky
-Strangely Appealing
-Super
-Super-Mutant
+Super Marauder
 Superior
 Supreme Darklord
 Supreme Ruler
 Swamp-Dweller
 Swarm of
-Tawdry
 Taxi Driver
-Technologically-Advanced
-Teensy
 Tennis instructor
 That Gal
 That Guy
@@ -396,43 +332,29 @@ The Cyborged
 The Desirable
 The Fraudulent Behavior of
 The Honorable
-The honorable
 The Immortal
 The Incredible
 The Intolerable
 The Intolerant
-The Last Remaining
 The Most Honorable
 The Multi-Talented
+The Only Successful Clone of
 The respectable
 The Sometimes Absent
-The Somewhat Awkward
-The Uncanny
-The Undeniable
-The Unexpected
-The unusual
-Thinking
 Thought Leader
 Ticket Booth Attendant
-Tiny
-Toasted
 Tri-Pedal
-Tried and True
 True Champion
 True Gentleman
 True Hero
-Truly Strange
 Trustworthy
 TSA Agent
 Tugboat Captain
 Turnt Up
 Two
-Ultra
-Ultra-Detonated
 Undead
 Undertaker
 Unibrow
-Unsanitary
 Vice President
 Vice Secretary
 Viceroy
@@ -442,11 +364,8 @@ Wet Nurse
 Wife of
 Winner of the Spelling Bee
 Worker
-World-Class
-Ye Old
 Yoga Instructor
 Yogurt Instructor
-Young
 Your Brother the
 Your Favorite
 Your Nephew
