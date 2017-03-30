@@ -145,7 +145,7 @@ Free Range
 Friend
 Front-End Developer
 Garbage man
-Garbage woman
+Garbagewoman
 Gardener
 Gas Station Attendant
 Gatekeeper
@@ -264,7 +264,7 @@ Pizza Delivery
 Plainswalker
 Podcaster
 Poorhouse
-Post woman
+Postwoman
 Postman
 Postmaster
 Postmaster general

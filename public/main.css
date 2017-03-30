@@ -14,17 +14,33 @@ a{
   color: white;
 }
 
+.logo{
+  width: 90%;
+  max-width: 550px;
+  margin: 20px auto 0px auto;
+  display: block;
+}
+
 .container{
   text-align: center;
   margin: 0 auto;
   max-width: 100%;
 }
 
-h1{
-  padding: 10px;
+.text-center{
   text-align: center;
+}
+p {
+  padding: 10px;
+
+}
+
+h2{
+  text-transform: uppercase;
+  padding: 10px;
   color: white;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 200;
 }
 
 .form {
