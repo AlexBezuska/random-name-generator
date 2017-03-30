@@ -39,10 +39,40 @@ function generateName(parts) {
   return names.join(" ");
 }
 
+
+module.exports = {
+  location: generateLocation,
+  username: generateUsername
+}
+
+function generateLocation() {
+    return generateName(
+    [
+      { list: locationPrefixes, probability: 0.5 },
+      { list: adjectives, probability: 1 },
+      { list: locations, probability: 1 },
+      { list: locationSuffixes, probability: 0.2 }
+    ]
+  )
+}
+
+function generateUsername() {
+    return generateName(
+      [
+        { list: titles, probability: 1 },
+        { list: adjectives, probability: 0.5 },
+        { list: firstnames, probability: 1 },
+        { list: lastnames, probability: 1 }
+      ]
+    );
+}
+
+
+
 /* For testing purposes only
 Logs a sample group of names to the console
 */
-var results = 30;
+var results = 10;
 console.log("Locations:\n```");
 for (var i = 0; i < results; i++) {
   var locationName = generateName(

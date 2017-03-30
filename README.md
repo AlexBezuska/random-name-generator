@@ -68,5 +68,16 @@ Destroyer Regurgitated Morph Puffin
 Cyberartist Charles Chimpanzee
 ```
 
-## To run:
-* ```node app.js```
+## How to use:
+
+### To run Command Line Version:
+
+Output 10 Locations and 10 Users
+
+* In your terminal: ```node app.js```
+
+
+### To run the web interface:
+
+* In your terminal: ```node index.js```
+* Open www/index.html in your browser

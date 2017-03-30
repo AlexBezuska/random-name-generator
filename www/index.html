@@ -1,0 +1,62 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Random Name Generator</title>
+  <meta name="description" content="Like nobody has made one of these before...">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <h1> Duolastic Name Generator API </h1>
+  <div class="container">
+
+      <div class="form">
+          <input type="text" id="usernameDisplay" placeholder="username"/>
+          <button id="usernameBtn">Generate username</button>
+      </div>
+
+      <div class="form">
+          <input type="text" id="locationDisplay" placeholder="location"/>
+          <button id="locationBtn">Generate location</button>
+      </div>
+
+<p>2017 Alex Bezuska - Open Source on <a href="https://github.com/TwoScoopGames/Duolastic-name-generator"> Github</div></p>
+  </div>
+</body>
+<script>
+var url = "http://localhost:4321/";
+
+uiSetup("usernameBtn", "usernameDisplay", url + "username");
+uiSetup("locationBtn", "locationDisplay", url + "location");
+
+function uiSetup(buttonId, textfieldId, url){
+  document.getElementById(buttonId).addEventListener('click', function() {
+    getJSON(url, function(err, data) {
+      if (err != null) {
+        alert('Something went wrong: ' + err);
+      } else {
+        document.getElementById(textfieldId).value = data;
+      }
+    });
+  });
+}
+
+function getJSON(url, callback) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('get', url, true);
+    xhr.responseType = 'json';
+    xhr.onload = function() {
+      var status = xhr.status;
+      if (status == 200) {
+        callback(null, xhr.response);
+      } else {
+        callback(status);
+      }
+    };
+    xhr.send();
+};
+</script>
+</html>
