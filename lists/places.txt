@@ -15,6 +15,7 @@ Township
 Planetoid
 Sector
 Patch
+Territorial Claim
 Nebuloid
 Planetoid
 Meteor
@@ -64,6 +65,9 @@ Singularity
 Precinct
 Cloud
 Astral Body
+Planet Group
+Sector
+Sectoré
 Planets
 Object
 Suburbia
@@ -74,8 +78,13 @@ Constellation
 Star System
 Galaxy
 Gaseous Body
-Mantel
-Crust
+Stelar Area
+Casa
+Space Basement
+Space Cellar
+Space Palace
+Lunar Cathedral
+Lunar Palace
 Whirlpool
 Dust Collection
 Cosmos
@@ -84,7 +93,7 @@ Galaxy
 Satellite
 Home
 Debris Field
-area
+Area
 Area
 Country
 Enclave
@@ -96,15 +105,19 @@ Sector
 State
 Street
 Terrain
+Space Hut
+Space Apartment
 Zone
 Block
 Boundary
 Commonwealth
 Dominion
+Astrobelt
+Quadrasphere
+Contested Territory
 Empire
 Expanse
-Extent
-Quarter
+Quadrant
 Municipality
 Section
 Township

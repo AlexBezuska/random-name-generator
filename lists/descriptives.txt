@@ -32,6 +32,13 @@ Purple
 Hazy
 Misty
 Itchy
+Danger
+Irregular
+Constipated
+Bloated
+Contested
+War-torn
+Impossible
 Yellow
 Gray
 Persei
