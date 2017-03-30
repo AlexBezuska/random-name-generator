@@ -80,4 +80,4 @@ Output 10 Locations and 10 Users
 ### To run the web interface:
 
 * In your terminal: ```node index.js```
-* Open www/index.html in your browser
+* Open ```localhost:4321``` in your browser
