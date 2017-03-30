@@ -1,308 +1,458 @@
-Sir
-Her Majesty
-True Gentleman
-True Hero
-Fancy
-The Honorable
-Doctor
-Nurse
-The Last Remaining
-Superior
-Overlord
-Janitor
-Worker
-Most Respectable
-High Chancellor
-Regent
-Princess
-Prince
-Offspring of
-Poorhouse
-Chef
-Sidecar
-His Excellency
-Her Excellency
-Supreme Darklord
-Most Revered
-Highly Recommended
-Best in Show
-Supreme Ruler
-Malevolent
-Least Lucky
-Lucky
-Most Especially Adequate
-Obedient Servant
-Champion
-True Champion
-Second Place
-Formidable
-My Favorite
-Your Favorite
-Your Brother the
-Big Sis
-Lowly
-Exhalted
-King
-Queen
-Dutchess
-Sharpshooter
-Tried and True
-Trustworthy
-Good Guy
-Good Gal
-Friend
-Lifelong Friend
-Confidant
-Companion
-Significant Other
-Coworker
-Buddy
-Mother
-Sister
-Your Newphew
+A Date with
+A Only Successful Clone of
+Abrasive
+Actor
+Aircraft Mechanic
+Ambassador from Cleveland
+An Entire Swarm of
+Ancient
+Ancient Technology
+Ancillary
+Angry
+Arborist
+Arch Darklord
+Archbishop
+Astral
+Astronaut
+Astronomer
 Aunt
-Ye Old
-Mister
-Misses
-Mystery
-Spooky
-Creepy
-Harrowing
-Sneaky
-Speedy
-Quite Acceptable
-The Desirable
+Aviator
+Bad Boy
+Bad Girl
+Bag Boy
+Balloonist
+Baroness
+Barron
+Bartender
+Basketball Man
+Best Ever
+Best in Show
+Bi-Pedal
+Big
+Big Ol
+Big Sis
+Bill Collector
+Bird-Beaked
+BitCoin Miner
+Board Member
+Bounty Hunter
+Brainlord
+Brainologist
+Brood of
+Buddy
+Businessman
+Cage Free
+Cardiologist
+Carjacker
+Cart Grabber
+Cat Lady
+CEO of the Company
 Chairman
 Chairwoman
-Archbishop
+Champion
+Chef
+Chess Master
 Chief
+Chief Justice
+Chieftain
+Chiropractor
+CIA Agent
+Clapping
+Clever Girl
+Cliff Diver
+Cloud-Morph
+Club Member
+Club Owner
+Co Pilot
+Commander-In-Chief
 Commissioner
-Don
-Earl
-Marshal
-Elder
-Foreign Minister
-Senator
-Vice President
-Price Reducer
-Dealer For the People
-Bag Boy
-Cart Grabber
-Gopher
-Intern
-Governor
-Mayor
-Grand Master
-Lady
-Prime Minister
-The Most Honourable
-Vice Secretary
-Miss
-Little Miss
-Barron
-Barroness
-Seductress
-Louisvillian
-Tennis instructor
-Major
-Lieutenant governor
-Detective
-Postmaster
-Postmaster general
-Postman
-Post woman
-Flight attendant
-Designer
-The honorable
-The respectable
-The unusual
+Companion
+Composite Minister
+Concierge
+Confidant
+Conquerer
+Constable
+Consultant
+Cookie Baker
+Cosmonaut
+Cousin
+Coworker
+Creepy
+Cult Leader
+Cyber Challenger
+Cyber DJ
+Cyber Terror
+Cyber-Bully
+Cyber-Citizen
+Cyber-Expert
+Cyber-Mutant
+Cyber-Security Officer
+Cyberactivist
+Cyberaddict
+Cyberartist
+Cyberathlete
+Cyberattacker
+Cyberbeing
+Cyberbully
+Cybercapitalist
+Cybercelebrity
+Cybercitizen
+Cybercommuter
+Cybercop
+Cyberczar
+Cybergirlfriend
+Cyberhero
+Cyberjournalist
+Cyberkid
+Cybernetic
+Cyberpunk
 Dance Instructor
-Yoga Instructor
-Yogurt Instructor
-Chieftan
-Merchant
-Race car driver
+Dance-off Champion
+Dark Guidance Counselor
+Daughter of
+Dealer For the People
+Dear Friend
+Dearest
+Demon Slayer
+Dental Hygienist
+Dependable
+Deputy
+Designer
+Destroyer
+Detective
+Difficult
+Diplomat
+DJ
+Doctor
+Don
+Don't Mess With
+Dutchess
+Earl
+Eco Terrorist
+Elder
+Endocrinologist
+Energized
+Environmentalist
+Ethereal Being
+Everybody Loves
+Evil Astronaut
+Evolved
+Exalted
+Excessively Empathetic
+Exploded
+Extraverted
+Fancy
+Farmer
+Fashion Designer
+Father
+Father Figure
+Final Form of
+First mate
+Flavor Lord
+Flavor Master
+Flight attendant
+Floating Brain of
+Florist
+Folk Hero
+Folk Icon
+Forage Cake
+Foreign Minister
+Formidable
+Free Range
+Friend
+Front-End Developer
 Garbage man
 Garbage woman
-Two
+Gardener
+Gas Station Attendant
+Gas-Powered
+Gatekeeper
+Genetically-Modified
+Ghost Hunter
+Glass blower
+GMO Free
+Good
+Good Gal
+Good Guy
+Gopher
+Governor
+Grand Master
+GrandFather of
+Grandma
+Grandmaster
+Grandpa
+Grandson of
+Grave Robber
+Grey-bearded
+Guidance Counselor
+Handmaiden
+Happy
+Hard-Working
+Harrowing
+Hasty
+Heir to the Throne
+Her Excellency
+Her Majesty
+Hey Look it's
+High Chancellor
+High Chieftain
+Highly Recommended
+Highschooler
+Hipster
+His Excellency
+Home Owner
+Honey Dearest
+Horse Whisperer
+Hot-Headed
+Husband of
+Hyper-Evolved
+I Voted for
+Idea Guy
+Illegal
+Illusion
+Imploded
+Infant
+Insane
+Insanity
+Insensitive
+Interesting
+Intern
+Introverted
+Intuitive
+Inverted
+Janitor
+Jazzcat
+Jazzmaster
+Judge
+Key Master
+King
+Lady
+Last Samurai
+Lawyer
+Least Lucky
+Lethal Enforcer
+Librarian
+Lieutenant governor
+Lifelong Friend
+Lil
+Little
+Little Miss
+Little Old
 Loan officer
 Loan shark
 Local
-Constable
-Sherif
-Deputy
-The unexpected
-The intolerant
-The intolerable
-Pirate
-First mate
-The incredible
-The somewhat awkward
-Old timer
-The sometimes absent
-Taxi driver
-Pizza delivery
-Bill collector
-Sous chef
-Bartender
-Your old aunt
-Your old uncle
-Grandpa
-Grandma
-Father
-Plainswalker
-Horse whisperer
-Cat lady
-Professor
-Gas station attendant
-Cookie baker
-Pie master
-Road warrior
-Tugboat captain
-Signmaker
-Arborist
-Glass blower
-Scientist
-Florist
-Officiant
-Lawyer
-Undertaker
-Diplomat
-Cliff diver
-Balloonist
-Aviator
-Pilot
-Co pilot
-Restroom attendant
-Concierge
-Robotic
-Cybertenic
-Cyber terror
-Environmentalist
-Chief Justice
-Judge
-Reseller
-Librarian
-Zookeepers
-Zooologist
-Scientologist
-Meter maid
-Dependable
-Long-lasting
-Viceroy
-Handmaiden
-Wet nurse
-Midwife
-Ornery
-Angry
-Happy
-Slippery
-Tawdry
-Rambunctious
-Clever girl
-Hasty
-Big
+Local Legend
 Logical
-Brainlord
-Destroyer
-Conquerer
+Long-lasting
+Louisvillian
+Lowly
+Lucky
+Luxurious
+Magician
+Major
+Malevolent
+Marshal
+Mayor
+MC
+Mean old
+Mega
+Melancholy
+Merchant
+Mermaid
+Merman
 Messy
-Little Old
-Little
-Small
-Tiny
-Boardmember
-Club Member
-Club Owner
-Home Owner
-Interesting
-Truly Strange
+Meter Maid
+Middleschooler
+Midwife
+Miss
+Misses
+Mister
+Moldy
+Most Especially Adequate
+Most Evolved Form of
+Most Respectable
+Most Revered
+Mother
+Mr.
+Mutant
+Mutant Avenger
+My Favorite
+My Son
+Mystery
+NanoMachine-Covered
+Necromancer
+Netrunner
+Newborn
+Nurse
+Obedient Servant
 Oddly Satisfying
-Strangely Appealing
-Teensy
-Lil
-Greybearded
-Unibrow
-GMO Free
-Cage Free
-Free Range
+Officiant
+Offspring of
+Old Timer
+Omega
+OMG
 Ornate
-Grave Robber
-High Chieftain
-Grandmaster
-Chessmaster
-Front-End Developer
-Art
-Flavormaster
-Flavor Lord
-Gardener
-Insensitive
-Senior Citizen
-Ambassador from Cleveland
+Ornery
 Outlaw
+Overlord
+Parent of
+Part Human
+Pediatrist
+Performing Artist
+Phantasmal
+Phantom
+Phone Operator
+Pianist
+Pie Master
+Pilot
+Pirate
+Pizza Delivery
+Plainswalker
+Podcaster
+Poorhouse
+Post woman
+Postman
+Postmaster
+Postmaster general
+Price Reducer
+Prime Minister
+Prince
+Princess
+Professional Bounty Hunter
+Professor
+Project Manager
+Quadroped
+Queen
+Quite Acceptable
+Race car driver
+Rambunctious
+Regent
 Renegade
+Restroom Attendant
+Road Warrior
+Robo-Pediatrist
+Robotic
+Rocket-Powered
+Russian Cosmonaut
+Sapling
+Schoolkid
+Scientist
+Scientologist
+Second Place
+Secret Agent
+Secret Password:
+Seductress
+Seedling
+Senator
+Senior Citizen
+Server
+Sharpshooter
+Sherif
+Sidecar
+Sign-Maker
+Significant Other
+Sir
+Sister
+Slippery
 Sloppy
 Slumlord
-Basketball Man
-Hot headed
-Project Manager
-Server
-Waiter
-Ticket Booth Attendant
-Keymaster
-Gatekeeper
-Phone Operator
-Pediatrist
-Cardiologist
-Endocronologist
-Omega
-Mega
-Ultra
-Insanity
-Insane
-Unsanitary
-Ancelary
-Excessive
-Farmer
-Actor
-Idea Guy
-Moldy
-Clapping
-Energized
-Jazzmaster
-Pianist
-Jazzcat
-Hipster
-That Guy
-That Gal
-Dearest
-Honey Dearest
-Dear Friend
-Confidant
-Companion
-Best Ever
-Good
-Bad Boy
-Bad Girl
-Mean old
-Daughter of
-Grandson of
-GrandFather of
-Sticky
-Astronaut
-Cosmonaut
-Russian Cosmonaut
-Astronomer
-Aircraft Mechanic
+Small
+Sneaky
+Sopping Wet
+Sous Chef
 Space Actuary
-TSA Agent
-CIA Agent
+Space Expert
 Space FBI Agent
-Chiropractor
-Consultant
-Dental Hygienist
-Last Samurai
-Parent of
-Fashion Designer
-Guidance Counselor
-Rocket-Powered
+Space Pope
+Speedy
+Spirit Tracker
+Spooky
+Steam-Powered
+Sticky
+Strangely Appealing
+Super
+Super-Mutant
+Superior
+Supreme Darklord
+Supreme Ruler
+Swamp-Dweller
+Swarm of
+Tawdry
+Taxi Driver
+Technologically-Advanced
+Teensy
+Tennis instructor
+That Gal
+That Guy
+The 2nd Unsuccessful Clone of
+The 3rd Unsuccessful Clone of
+The 4th Unsuccessful Clone of
+The 5th Unsuccessful Clone of
+The 6th Unsuccessful Clone of
+The 7th Unsuccessful Clone of
+The 9th Unsuccessful Clone of
+The Always Inquisitive
+The Cyborged
+The Desirable
+The Fraudulent Behavior of
+The Honorable
+The honorable
+The Immortal
+The Incredible
+The Intolerable
+The Intolerant
+The Last Remaining
+The Most Honorable
+The Multi-Talented
+The respectable
+The Sometimes Absent
+The Somewhat Awkward
+The Uncanny
+The Undeniable
+The Unexpected
+The unusual
+Thinking
+Thought Leader
+Ticket Booth Attendant
+Tiny
+Toasted
+Tri-Pedal
+Tried and True
+True Champion
+True Gentleman
+True Hero
+Truly Strange
+Trustworthy
+TSA Agent
+Tugboat Captain
+Turnt Up
+Two
+Ultra
+Ultra-Detonated
+Undead
+Undertaker
+Unibrow
+Unsanitary
+Vice President
+Vice Secretary
+Viceroy
+Vote for
+Waiter
+Wet Nurse
+Wife of
+Winner of the Spelling Bee
+Worker
+World-Class
+Ye Old
+Yoga Instructor
+Yogurt Instructor
+Young
+Your Brother the
+Your Favorite
+Your Nephew
+Your Old Aunt
+Your Old Uncle
+Youth Basketball Coach
+Youtuber
+Zookeeper
+Zoologist

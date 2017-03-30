@@ -1,0 +1,170 @@
+Alley
+Andromeda
+Area
+Asteroid
+Asteroid Belt
+Astral Body
+Astrobelt
+Badlands
+Barbados
+Base
+Battlefield
+Belt
+Black Hole
+Block
+Boundary
+Bowl
+Broken-Down Van
+Casa
+China
+Clearing
+Cloud
+Colony
+Commonwealth
+Cone-World
+Constellation
+Contested Territory
+Cosmic Rift
+Cosmos
+Country
+Crater
+Cyberverse
+Cyberworld
+Dark Net
+Debris Field
+Decagon
+Demonworld
+Dependency
+Dimension
+Dodecahedron
+Dominion
+Dump
+Dumpsite
+Dust Collection
+Ellipse
+Empire
+Enclave
+Expanse
+Eye
+Factory
+Farm
+Field
+Flats
+Fork
+Fragment
+France
+Galaxy
+Gammaverse
+Garbage Patch
+Gas Giant
+Gaseous Body
+Hallway
+Hamlet
+Heap
+Helptogon
+Hemorrhoid
+Heptagon
+Hill
+Hivemind
+Hole
+Home
+Homeland
+Homeworld
+Hydrosphere
+Hyper-Cube
+Hyper-Verse
+Icy Rock
+Italy
+Japan
+Lunar Cathedral
+Lunar Palace
+Megallelogram
+Megaverse
+Metaverse
+Meteor
+Microwave
+Mongolia
+Moon
+Motherland
+Mound
+Municipality
+Nanogon
+Nation
+Nebula
+Nebuloid
+Nebulon
+Neck of the Woods
+Neighborhood
+Nest
+Neuroverse
+Nonagon
+Nursery
+Object
+Orbit
+Parallelogram
+Patch
+Pentagon
+Persei
+Planet
+Planet Group
+Planetoid
+Planets
+Point
+Precinct
+Province
+Psuedo-Planetoid
+PsuedoDeminsion
+Psuedoplanet
+Quadrant
+Quadrasphere
+Region
+Rhombus
+Salt Flats
+Satellite
+Section
+Sector
+Sectoré
+SemiDeminsion
+Singularity
+Skating Rink
+Space Apartment
+Space Base
+Space Basement
+Space Cellar
+Space Hut
+Space Palace
+Space Station
+Space-Capades
+Spain
+Spider-World
+Squaragon
+Squaretangle
+Star
+Star System
+State
+Station
+Stelar Area
+Stomping Grounds
+Street
+Suburbia
+Sun
+Sunrise
+Super-Collider
+Superverse
+Terrain
+Territorial Claim
+Territory
+Tetraverse
+Tetrazoid
+Tiger Nest
+Tongue
+Township
+Tract
+Trash Heap
+Underworld
+Universe
+Vortex
+Whirlpool
+Winnipeg
+World
+Zone

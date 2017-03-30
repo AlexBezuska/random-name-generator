@@ -1,119 +1,80 @@
-Clay
-Fury
-Love
-Turt
-Robot
-Bot
-Fietti
-Siad
-of majesty
-MD
-Yeti
-Sasquatch
-PH.d
-from the future
-from the past
-The Third
-Esquire
-Crusher
-Starfish
-Mars
-Leomancer
-Dermis
-Cat
-Berkus
-esquire
-Peete
-McDermis
-Dermis
-Cattle
-Dog
-Donkey
-Goat
-pig
-Horse
-Pig
-Rabbit
-rat
-rat
-Sheep
-
-Chicken
-Duck
-Goose
-Pigeon
-Turkey
+360
+4000
 Aardvark
-Aardwolf
-buffalo
-elephant
-leopard
 Albatross
 Alligator
 Alpaca
-buffalo
-robin
 Amphibian
-Gold
 Anaconda
 Angelfish
 Anglerfish
 Ant
 Anteater
 Antelope
-Antlion
 Ape
 Aphid
-leopard
-Fox
-Wolf
 Armadillo
-crab
 Asp
-Donkey
-Beefalo
 Baboon
 Badger
-eagle
+Bagel
+Baguette
 Bandicoot
 Barnacle
 Barracuda
 Basilisk
 Bass
 Bat
-whale
+bat
+BBQ
+Beak
+bear
 Bear
+Beat
 Beaver
+Because of the Way I Play Jazz
 Bedbug
 Bee
+Beefalo
 Beetle
+beetle
+BeetleBorg
+BeeZord
+Belk
+Berkus
+Billiam
+Bionic Person
 Bird
+bird
+Biscuit
 Bison
-bird
-panther
-spider
-bird
-jay
-whale
 Boa
 Boar
 Bobcat
-Jellyfish
+Boo
+Bot
+Boy
+Bread Slice
+Buffalo
+buffalo
 Bug
+Bun
 Butterfly
 Buzzard
 Camel
+Canary
 Canine
-buffalo
 Capybara
 Cardinal
 Caribou
 Carp
 Cat
-Catshark
 Caterpillar
 Catfish
+Catshark
 Cattle
+Cavatappi
+Cave Cricket
 Centipede
 Cephalopod
 Chameleon
@@ -123,7 +84,13 @@ Chicken
 Chimpanzee
 Chinchilla
 Chipmunk
+Cicada
 Clam
+Clarinet
+Clay
+Clone Army
+Clone Battalion
+Clone Navy
 Clownfish
 Cobra
 Cockroach
@@ -134,203 +101,250 @@ Coral
 Cougar
 Cow
 Coyote
+crab
 Crab
 Crane
-fly
+crane
 Crawdad
+Crawling with Nanites
 Crayfish
 Cricket
 Crocodile
 Crow
+Crusher
 Cuckoo
-Cicada
+CyberBuffalo
+CyberDroid
+CyberShrimp
+Cyborg
+Daboleena
 Damselfly
+DaRude
+Dealer for the People
 Deer
+Dermis
 Dingo
+Dino
 Dinosaur
 Dog
 Dolphin
 Donkey
 Dormouse
+dove
 Dove
-Dragonfly
 Dragon
+dragon
+Dragonfly
+Droid Army
+duck
 Duck
-beetle
 Eagle
 Earthworm
 Earwig
 Echidna
 Eel
 Egret
+Elbow
 Elephant
-seal
 Elk
 Emu
-pointer
+Enforcer
 Ermine
+Esquire
+esquire
 Falcon
+falcon
+Feet
+Fence Post
 Ferret
+Fettuccine
+Fietti
+finch
 Finch
+Fingers
 Firefly
+fish
 Fish
 Flamingo
 Flea
+Floating in Space
 Fly
 Flyingfish
+FM
 Fowl
+fox
 Fox
+frog
 Frog
-bat
+from the future
+from the past
+Furious
+Fury
+Gallimimus
 Gamefowl
-Galliform
+Games
 Gazelle
 Gecko
 Gerbil
-panda
-squid
 Gibbon
 Gila monster
 Giraffe
+glider
+Glover
+Gnocchi
+goat
 Goat
+Goldblum
 Goldfish
+Goods
 Goose
-Monster
-Ngo
-Pham
-Pho
-Sandwhich
-Noodles
-Ravioli
-Wilds
-Laptop
-Boo
-Sasparilla
-Silverfish
-Cave Cricket
-
+goose
 Gopher
 Gorilla
+Graham
+Grant
 Grasshopper
-heron
-shark
-bear
-shark
-sloth
-Grouse
-Guan
-Guanaco
+Guinea pig
 Guineafowl
-pig
+guineafowl
 Gull
 Guppy
+Gusta
+Gusto
 Haddock
 Halibut
-shark
+Hammond
 Hamster
-Hare
 Harrier
 Hawk
+hedgehog
 Hedgehog
-crab
+Hen
+Here with your pizza
 Heron
 Herring
 Hippopotamus
+Holand
 Hookworm
 Hornet
 Horse
+household pest
 Hoverfly
+Human
+Human Being
+Human Child
 Hummingbird
-whale
+Hybrid SemiHuman
 Hyena
 Iguana
-Impala
-Jellyfish
+in a Blender
 Jackal
 Jaguar
-Jay
+jay
 Jellyfish
 Junglefowl
 Kangaroo
+Kazooie
+Keyboard
+Keys
 Kingfisher
 Kiwi
+Knocking at The Front Door
 Koala
 Koi
-dragon
 Krill
+Lab rat
 Ladybug
 Lamprey
 Landfowl
-Snail
+Laptop
 Lark
-Table Salt
-Bread Slice
-Trashbag
+Lasagne
 Leech
 Lemming
 Lemur
+Leomancer
+leopard
 Leopard
-Leopon
-Trumpet
-Clarinet
-Saxophone
-Graham
-Holand
-Fingers
-Keyboard
-Keys
 Lion
+lion
+lizard
 Lizard
 Llama
 Lobster
 Locust
+Longface
 Loon
 Louse
+Love
 Lungfish
+Lurching for Safety
 Lynx
-Games
-Rooster
-Hen
-tronaut
 Macaw
 Mackerel
+Made of Bones
+Made of Dreams
+Made of People
+Made of Skin
+Made of Stardust
+Made of Teeth
 Magpie
+Malcolm
 Mammal
+Man O' War
 Manatee
 Mandrill
+Mansplainer
 Manta ray
+mantis
 Marlin
 Marmoset
 Marmot
+Mars
 Marsupial
 Marten
+Mashed Potatoes
 Mastodon
+Mc
+McBabies
+McDermis
+McStabby
+MD
 Meadowlark
+Mechanical Person
 Meerkat
 Mink
 Minnow
 Mite
 Mockingbird
+mole
 Mole
+Molerat
 Mollusk
 Mongoose
-lizard
+monkey
 Monkey
+Monster
+Monstrosity
 Moose
 Mosquito
 Moth
-goat
 Mouse
+mouse
 Mule
+Mushroom
 Muskox
 Narwhal
 Newt
-quail
+Ngo
 Nightingale
+Noodles
+Norton
 Ocelot
 Octopus
-quail
-toupe
+of majesty
+On the phone for you
+on Toast
 Opossum
 Orangutan
 Orca
@@ -338,7 +352,10 @@ Ostrich
 Otter
 Owl
 Ox
+Pair of Actual Shorts
+panda
 Panda
+panther
 Panther
 Parakeet
 Parrot
@@ -346,218 +363,199 @@ Parrotfish
 Partridge
 Peacock
 Peafowl
+Pecan
+Peeler of the potatoes
+Peete
 Pelican
 Penguin
+perch
 Perch
-falcon
+PH.d
+Pham
+Pharoah
 Pheasant
+Pho
 Pig
+pig
+pigeon
 Pigeon
-Mushroom
 Pike
-whale
-Pinniped
+Pillbug
 Piranha
-Planarian
-mansplainer
 Platypus
-bear
+pointer
+Poison Berry
 Pony
 Porcupine
 Porpoise
-man o' war
 Possum
-dog
 Prawn
-mantis
 Primate
 Ptarmigan
 Puffin
 Puma
 Python
 Quail
+quail
 Quokka
 Rabbit
+rabbit
 Raccoon
-trout
 Rat
+rat
+RatBeast
 Rattlesnake
 Raven
+Ravioli
 Ray
+Recently Found in Space
 Red panda
 Reindeer
 Reptile
 Rhinoceros
+Rigatoni
 Right whale
 Roadrunner
+Robin
+Robot
 Rodent
+ROFL
 Rooster
 Roundworm
-Cat
 Sailfish
+Salad
 Salamander
 Salmon
+salmon
+Sandwich
+Sason
+Sasparilla
+Sasquatch
+Satler
 Sawfish
+Saxophone
 Scale insect
 Scallop
+Scone
 Scorpion
 Seahorse
-lion
-slug
-snail
+seal
+Shack
+Shaeffer
 Shark
+shark
 Sheep
 Shrew
 Shrimp
+silkmoth
 Silkworm
 Silverfish
 Skink
 Skunk
+Slimebeast
 Sloth
 Slug
+slug
 Smelt
+snail
 Snail
 Snake
+Snatcher
 Snipe
-leopard
-salmon
 Sole
+Space Brick
 Sparrow
 Sperm whale
+spider
 Spider
-monkey
+Spiderbones
 Spoonbill
 Squid
+squid
 Squirrel
-Feet
+Staple
 Starfish
-mole
-trout
 Stingray
-Thomas
 Stork
-Fettuccine
+Streep
+Student
 Sturgeon
-Vermicelli
-glider
 Swallow
 Swan
 Swift
+Sword
 Swordfish
 Swordtail
+Table Salt
 Tapir
 Tarantula
-Tarsier
-stabby
+Teacher
 Termite
 Tern
+The Drop
+The elder
+The Third
+The younger
+Theepwood
+Thief
+Thomas
 Thrush
 Tick
 Tiger
-shark
-Tiglon
 Toad
+Tooie
+Tortellini
 Tortoise
 Toucan
-spider
-frog
+Toupe
+Towel
+Tracker
+Trashbag
+Treefolk
+Triceratops
+tronaut
+trout
 Trout
+Truck
+Trumpet
 Tuna
+turkey
 Turkey
+Turt
 Turtle
 Tyrannosaurus
-Gallimimus
-bat
-squid
+Vermicelli
 Vicuna
 Viper
 Vole
 Vulture
 Wallaby
 Walrus
-Wasp
 Warbler
-Boa
-buffalo
+Wasp
 Weasel
+Werewolf
 Whale
+whale
 Whippet
 Whitefish
-crane
 Wildcat
 Wildebeest
 Wildfowl
+Wilds
+Wiley
+Winner of the hotdog eating contest
+With a Leaf-Blower Strapped to it
+With Diplomatic Immunity
+Without it's Baby Teeth
 Wolf
 Wolverine
 Wombat
 Woodpecker
 Worm
 Wren
-fish
 Yak
-perch
+Yeonard
+Yeti
 Zebra
-finch
-household pest
-poisonous
-Alpaca
-Cat
-Cattle
-Chicken
-Dog
-Theepwood
-Shaeffer
-Camel
-Canary
-duck
-goat
-goose
-guineafowl
-hedgehog
-pig
-pigeon
-rabbit
-silkmoth
-fox
-turkey
-Donkey
-mouse
-rat
-Lab rat
-Ferret
-Goldfish
-Guinea pig
-Guppy
-Horse
-Koi
-Llama
-dove
-Sheep
-Fish
-Finch
-Yak
-buffalo
-Grant
-Satler
-Goldblum
-Malcolm
-Hammond
-Belk
-Boy
-Staple
-Streep
-Glover
-Here with your pizza
-The younger
-The elder
-On the phone for you
-Winner of the hotdog eating contest
-Peeler of the potatoes
-Kazooie
-Tooie
-Enforcer
-Because of the Way I Play Jazz
-Goods
-Bat
-360
-Dealer for the People
+Ziti
