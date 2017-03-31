@@ -84,7 +84,9 @@ function fillTweetThis(type, namegen) {
   } else {
     intro = "The Duolastic Name Generator named me ";
   }
-  var newElement = '<a class="social-link" id="twittershare-'+ type + '" href="http://twitter.com/home?status=\'' + namegen + '\' http://duolastic-namegen.twoscoopgames.com" title="Tweet This!" target="_blank"><i class="fa fa-twitter"></i></a>';
+  var message = "twittershare-'+ type + '" href="http://twitter.com/home?status=\'' + namegen + '\' http://duolastic-namegen.twoscoopgames.com #DuolasticGame";
+  
+  var newElement = '<a class="social-link" id="' + encodeURIComponent(message) + '" title="Tweet This!" target="_blank"><i class="fa fa-twitter"></i></a>';
   replaceHtmlElement("twittershare-" + type, newElement)
 }
 
