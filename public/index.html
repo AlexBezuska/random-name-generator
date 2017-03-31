@@ -78,13 +78,13 @@ function preFill(){
 }
 
 function fillTweetThis(type, namegen) {
-  // var intro = "";
-  // if (type === "location"){
-  //   intro = "My new home: ";
-  // } else {
-  //   intro = "From now on I'm ";
-  // }
-  var newElement = '<a class="social-link" id="twittershare-'+ type + '" href="http://twitter.com/home?status=\'' + namegen + '\' http://bit.ly/2oh6xec" title="Tweet This!" target="_blank"><i class="fa fa-twitter"></i></a>';
+  var intro = "";
+  if (type === "location"){
+    intro = "The Duolastic Name Generator says I'm from ";
+  } else {
+    intro = "The Duolastic Name Generator named me ";
+  }
+  var newElement = '<a class="social-link" id="twittershare-'+ type + '" href="http://twitter.com/home?status=\'' + namegen + '\' http://duolastic-namegen.twoscoopgames.com" title="Tweet This!" target="_blank"><i class="fa fa-twitter"></i></a>';
   replaceHtmlElement("twittershare-" + type, newElement)
 }
 
