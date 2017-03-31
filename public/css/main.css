@@ -55,13 +55,6 @@ h2{
   text-align: center;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
 }
-@media screen and (max-width: 700px){
-  .form {
-    width: 90%;
-    margin: 20px 0px;
-    padding: 25px 4px;
-  }
-}
 
 .form a{
   color: #ac42d7;
@@ -121,4 +114,20 @@ h2{
 
 .form button:hover,.form button:active,.form button:focus {
   background: #7609A2;
+}
+
+
+@media screen and (max-width: 700px){
+  .form {
+    width: 90%;
+    margin: 20px 0px;
+    padding: 25px 4px;
+  }
+
+  .form button {
+    position: relative;
+    max-width: 200px;
+    margin-left: -50px;
+  }
+
 }

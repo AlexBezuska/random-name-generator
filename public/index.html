@@ -42,6 +42,27 @@
 </body>
 
 <script>
+var random = {
+  "inRange": function(min, max) {
+    return min + Math.random() * (max - min);
+  },
+  "from": function(array) {
+    return array[Math.floor(Math.random() * array.length)];
+  }
+};
+
+var sounds = [
+  new Audio('/sounds/Blip_Select.wav'),
+  new Audio('/sounds/Blip_Select2.wav'),
+  new Audio('/sounds/Blip_Select3.wav'),
+  new Audio('/sounds/Blip_Select4.wav'),
+  new Audio('/sounds/Blip_Select5.wav'),
+  new Audio('/sounds/Blip_Select6.wav'),
+  new Audio('/sounds/Blip_Select7.wav')
+];
+
+
+
 preFill();
 
 uiSetup("username");
@@ -57,13 +78,13 @@ function preFill(){
 }
 
 function fillTweetThis(type, namegen) {
-  var intro = "";
-  if (type === "location"){
-    intro = "My new home: ";
-  } else {
-    intro = "From now on I'm ";
-  }
-  var newElement = '<a class="social-link" id="twittershare-'+ type + '" href="http://twitter.com/home?status=' + intro + '\'' + namegen + '\' created using  Duolastic Name Generator by @TwoScoopGames http://bit.ly/2oh6xec" title="Tweet This!" target="_blank"><i class="fa fa-twitter"></i></a>';
+  // var intro = "";
+  // if (type === "location"){
+  //   intro = "My new home: ";
+  // } else {
+  //   intro = "From now on I'm ";
+  // }
+  var newElement = '<a class="social-link" id="twittershare-'+ type + '" href="http://twitter.com/home?status=\'' + namegen + '\' http://bit.ly/2oh6xec" title="Tweet This!" target="_blank"><i class="fa fa-twitter"></i></a>';
   replaceHtmlElement("twittershare-" + type, newElement)
 }
 
@@ -94,6 +115,7 @@ function dataOrError(err, data, type) {
     alert('Something went wrong: ' + err);
   } else {
     document.getElementById(type + "Field").innerText = data;
+    random.from(sounds).play();
     fillTweetThis(type, data);
   }
 }
