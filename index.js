@@ -21,4 +21,6 @@ app.get('/username', function(req, res) {
   res.json( generator.username());
 });
 
-app.listen(4321);
+var port = 4321;
+app.listen(port);
+console.log("Listening on http://0.0.0.0:" + port);
