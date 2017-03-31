@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "export-lists": "node export-lists.js",
     "clean-lists": "find lists/ -type f -exec ./clean-list.sh {} \\;",
     "start": "node .",
     "test": "node app.js"
