@@ -15,6 +15,7 @@ Ape
 Aphid
 Armadillo
 Asp
+Astronaut
 BBQ
 Baboon
 Badger
@@ -180,6 +181,7 @@ Gerbil
 Gibbon
 Gila monster
 Giraffe
+Glider
 Glover
 Gnocchi
 Goat
@@ -225,6 +227,7 @@ Iguana
 Investor
 Jackal
 Jaguar
+Jay
 Jellyfish
 Junglefowl
 Kangaroo
@@ -250,6 +253,7 @@ Lemur
 Leomancer
 Leopard
 Lion
+Lioness
 Lizard
 Llama
 Loaf of Bread
@@ -273,6 +277,7 @@ Manatee
 Mandrill
 Mansplainer
 Manta ray
+Mantis
 Marlin
 Marmoset
 Marmot
@@ -414,12 +419,14 @@ Scallop
 Scone
 Scorpion
 Seahorse
+Seal
 Shack
 Shaeffer
 Shark
 Sheep
 Shrew
 Shrimp
+Silkmoth
 Silkworm
 Silverfish
 Skelletina
@@ -531,44 +538,3 @@ Yeonard
 Yeti
 Zebra
 Ziti
-crab
-crane
-dove
-dragon
-duck
-esquire
-falcon
-finch
-fish
-fox
-glider
-goat
-goose
-guineafowl
-in a Blender
-jay
-leopard
-lion
-lizard
-mantis
-mole
-monkey
-mouse
-on Toast
-panda
-panther
-perch
-pig
-pigeon
-pointer
-rat
-salmon
-seal
-shark
-silkmoth
-slug
-snail
-tronaut
-trout
-turkey
-whale
