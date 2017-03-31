@@ -79,10 +79,10 @@ console.log("Locations:\n```");
 for (var i = 0; i < results; i++) {
   var locationName = generateName(
     [
-      { list: locationPrefixes, probability: 0.5 },
+      { list: locationPrefixes, probability: 0.7 },
       { list: adjectives, probability: 1 },
       { list: locations, probability: 1 },
-      { list: locationSuffixes, probability: 0.2 }
+      { list: locationSuffixes, probability: 0.5 }
     ]
   );
   console.log(locationName);

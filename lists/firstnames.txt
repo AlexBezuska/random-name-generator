@@ -56,6 +56,7 @@ Chirp
 Clementine
 Clicky
 Coconut
+Colon
 Cranberry
 Crash
 Crystal
@@ -67,7 +68,6 @@ Dannie
 Darry
 Dennis
 Diaper
-Dr.
 Dragon
 Dwight
 Edwardo
@@ -78,7 +78,6 @@ Eric
 Farrah
 Fast
 Felt-Tipped
-Fenjamin
 Fig
 Flame
 Flock of Birds
@@ -95,17 +94,17 @@ Georgia
 Grape
 Grapefruit
 Gravity
-Gruac
+Guac
 Guy
 Ha Ha
-Hamuel
 Honey
 Honeydew
 Horace
 Huckleberry
 Ian
 Jace
-Jamuel
+Jackson
+Jake
 Jason
 Jax
 Jeff
@@ -113,18 +112,23 @@ Jeffsica
 Jenny
 Jessie
 Jezibel
+Jimeney
 Jimothy
 Jodi
 Josh
 Joshua
 Juan
+Julian
+Julio
 Kamini
+Katrina
 Kebra
 Kelsey
 Kim
 Kiwi
 Klorence
 LOL
+Lance
 Land Slug
 Larry
 Laura
@@ -136,13 +140,12 @@ Lex
 Lime
 Little
 Loi
-Lonce
 Longhorn
 Luke
-Lulian
 Mai
 Malakhi
 Mango
+Manuel
 Martholomew
 Matt
 Max
@@ -160,7 +163,6 @@ Olive
 Orange
 Overdrive
 Pancake
-Parl
 Pax
 Peach
 Pear
@@ -170,9 +172,6 @@ Pineapple
 Pip
 Plum
 Pomegranate
-Porrence
-Porty
-Poshua
 Prajakta
 Proto
 Prune
@@ -187,12 +186,13 @@ Roberta
 Rosalina
 Rotini
 Said
+Salvatore
 Sam
 Samuelson
 Sandra
 Sara
 Sarah
-Seginald
+Shamuel
 Siamese
 Slim
 Sneaky
@@ -210,7 +210,6 @@ Tangerine
 Teenie
 Thinking
 Tim
-Timney
 Timothy
 Toasted
 Tom
@@ -223,12 +222,10 @@ Toxic
 Tunnel
 Turd
 Twig
-Upperhand
 Vermicelli
 Veronica
 Vertebrae
 Volt
-Wackson
 Waffle
 Watermelon
 Wesley

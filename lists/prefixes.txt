@@ -5,6 +5,7 @@ Airline Pilot
 All Hail
 Ambassador from Cleveland
 An Entire Swarm of
+Apprentice to
 Arch Darklord
 Archbishop
 Astronaut
@@ -135,33 +136,38 @@ Exalted
 Excessively Empathetic
 Exploded
 Extraverted
+Fake
 Farmer
 Fashion Designer
 Father
 Father Figure
-First mate
+First Ever
+First Mate
 Flavor Lord
 Flavor Master
-Flight attendant
+Flight Attendant
 Floating Brain of
+Floating Head of
 Florist
 Folk Hero
 Folk Icon
 Foraging
 Foreign Minister
+Forgotten
 Formidable
 Free Range
 Friend
 Front-End Developer
 GMO Free
-Garbage man
+Garbageman
 Garbagewoman
 Gardener
 Gas Station Attendant
 Gatekeeper
 Genetically-Modified
 Ghost Hunter
-Glass blower
+Glass Blower
+Gluten-Intolerant
 Good Gal
 Good Guy
 Gopher
@@ -173,7 +179,7 @@ Grandmaster
 Grandpa
 Grandson of
 Grave Robber
-Grey-bearded
+Grey-bBarded
 Guidance Counselor
 Handmaiden
 Hard-Working
@@ -214,12 +220,12 @@ Lawyer
 Least Lucky
 Lethal Enforcer
 Librarian
-Lieutenant governor
+Lieutenant Governor
 Lifeless
 Lifelong Friend
 Little Miss
-Loan officer
-Loan shark
+Loan Officer
+Loan Shark
 Local Legend
 Logical
 Long-lasting
@@ -227,10 +233,12 @@ Lost
 Louisvillian
 Lurking
 MC
+Macho
 Magician
 Major
 Malevolent
 Marshal
+Master Chef
 Matchemaker to the Stars
 Mayor
 Mean old
@@ -254,6 +262,7 @@ My Son
 Mystery
 Necromancer
 Netrunner
+Nobody Doesn't Like
 Non-Stop
 Normal old
 Nurse
@@ -262,6 +271,7 @@ Obedient Servant
 Officiant
 Offspring of
 Old Timer
+On a Firs-Name Basis With
 Ornery
 Outlaw
 Overlord
@@ -269,6 +279,7 @@ Parent of
 Part Human
 Pediatrist
 Performing Artist
+Person-of-Interest
 Phantasmal
 Phantom
 Phone Operator
@@ -277,13 +288,13 @@ Pie Master
 Pilot
 Pirate
 Pizza Delivery
-Plain old
+Plain Old
 Plainswalker
 Podcaster
 Poorhouse
 Postman
 Postmaster
-Postmaster general
+Postmaster General
 Postwoman
 Price Reducer
 Prime Minister
@@ -294,7 +305,7 @@ Professor
 Project Manager
 Quadroped
 Queen
-Race car driver
+Race Car Driver
 Rainmaker
 Rambunctious
 Regent
@@ -367,11 +378,13 @@ The Intolerable
 The Intolerant
 The Most Honorable
 The Multi-Talented
+The One and Only
 The Only Successful Clone of
+The Respectable
 The Sometimes Absent
-The respectable
 Thought Leader
 Ticket Booth Attendant
+Tranee
 Tri-Pedal
 Truck Driver
 True Champion
@@ -384,6 +397,7 @@ Two
 Undead
 Undertaker
 Unibrow
+Updated
 Vice President
 Vice Secretary
 Viceroy

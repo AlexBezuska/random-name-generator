@@ -51,6 +51,7 @@ Factory
 Farm
 Field
 Flats
+Food Truck
 Fork
 Fragment
 France
@@ -153,6 +154,7 @@ Sun
 Sunrise
 Super-Collider
 Superverse
+Taco Truck
 Terrain
 Territorial Claim
 Territory

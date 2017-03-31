@@ -1,5 +1,8 @@
 Aardvark
 Albatross
+Alien Observer
+Alien Queen
+Alien-Kangaroo Hybrid
 Alligator
 Alpaca
 Alpacazord
@@ -68,6 +71,7 @@ Capybara
 Cardinal
 Caribou
 Carp
+Carter
 Cat
 Caterpillar
 Catfish
@@ -369,6 +373,7 @@ Pony
 Porcupine
 Porpoise
 Possum
+Powell
 Prawn
 Primate
 ProtoFist
@@ -444,6 +449,7 @@ Snake
 Snatcher
 Snipe
 Sole
+Space Ant Queen
 Space Bacteria
 Space Brick
 Sparrow
@@ -534,7 +540,7 @@ Woodpecker
 Worm
 Wren
 Yak
-Yeonard
+Yeoman
 Yeti
 Zebra
 Ziti

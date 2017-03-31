@@ -11,7 +11,9 @@
  <meta name="description" content="A fun user and location name generator designed for the game Duolastic by Two Scoop Games!">
  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
 
-  <link rel="stylesheet" href="main.css">
+ <link rel="stylesheet" href="/css/font-awesome.min.css">
+ <link rel="stylesheet" href="/css/main.css">
+
 </head>
 <body>
   <div class="container">
@@ -21,16 +23,18 @@
 
 
       <div class="form">
-          <div class="name" id="usernameDisplay"></div>
+          <div class="name" id="usernameField"></div>
           <button id="usernameBtn">Generate username</button>
+            <a class="social-link" id="twittershare-username" href="http://twitter.com/home?status= created using @TwoScoopGames' Duolastic Name Generator http://duolastic-namegen.twoscoopgames.com" title="Tweet This!" target="_blank"><i class="fa fa-twitter"></i></a>
       </div>
 
       <div class="form">
-          <div class="name" id="locationDisplay"></div>
+          <div class="name" id="locationField"></div>
           <button id="locationBtn">Generate location</button>
+          <a class="social-link" id="twittershare-location" href="http://twitter.com/home?status= created using @TwoScoopGames' Duolastic Name Generator http://duolastic-namegen.twoscoopgames.com" title="Tweet This!" target="_blank"><i class="fa fa-twitter"></i></a>
       </div>
 
-  
+
 <p>2017 <a href="http://twoscoopgames.com">Two Scoop Games</a> <a href="http://alexbezuska.com">Alex Bezuska</a> - Open Source on <a href="https://github.com/TwoScoopGames/Duolastic-name-generator"> Github</div></p>
   </div>
 </body>
@@ -38,31 +42,57 @@
 <script>
 preFill();
 
-uiSetup("usernameBtn", "usernameDisplay", "/username");
-uiSetup("locationBtn", "locationDisplay", "/location");
+uiSetup("username");
+uiSetup("location");
 
 function preFill(){
   getJSON("/username", function(err, data) {
-    dataOrError(err, data, "usernameDisplay");
+    dataOrError(err, data, "username");
   });
   getJSON("/location", function(err, data) {
-    dataOrError(err, data, "locationDisplay");
+    dataOrError(err, data, "location");
   });
 }
 
-function uiSetup(buttonId, textfieldId, url){
-  document.getElementById(buttonId).addEventListener('click', function() {
-    getJSON(url, function(err, data) {
-      dataOrError(err, data, textfieldId)
+function fillTweetThis(type, namegen) {
+  var intro = "";
+  if (type === "location"){
+    intro = "My new home: ";
+  } else {
+    intro = "From now on I'm ";
+  }
+  var newElement = '<a class="social-link" id="twittershare-'+ type + '" href="http://twitter.com/home?status=' + intro + '\'' + namegen + '\' created using  Duolastic Name Generator by @TwoScoopGames http://bit.ly/2oh6xec" title="Tweet This!" target="_blank"><i class="fa fa-twitter"></i></a>';
+  replaceHtmlElement("twittershare-" + type, newElement)
+}
+
+function replaceHtmlElement(oldElementId, newElement){
+  var Obj = document.getElementById(oldElementId); //any element to be fully replaced
+  if(Obj.outerHTML) { //if outerHTML is supported
+      Obj.outerHTML = newElement; ///it's simple replacement of whole element with contents of str var
+  }
+  else { //if outerHTML is not supported, there is a weird but crossbrowsered trick
+      var tmpObj=document.createElement("div");
+      tmpObj.innerHTML='<!--THIS DATA SHOULD BE REPLACED-->';
+      ObjParent=Obj.parentNode; //Okey, element should be parented
+      ObjParent.replaceChild(tmpObj,Obj); //here we placing our temporary data instead of our target, so we can find it then and replace it into whatever we want to replace to
+      ObjParent.innerHTML=ObjParent.innerHTML.replace('<div><!--THIS DATA SHOULD BE REPLACED--></div>', newElement);
+  }
+}
+
+function uiSetup(type){
+  document.getElementById(type + "Btn").addEventListener('click', function() {
+    getJSON("/" + type, function(err, data) {
+      dataOrError(err, data, type);
     });
   });
 }
 
-function dataOrError(err, data, textfieldId) {
+function dataOrError(err, data, type) {
   if (err != null) {
     alert('Something went wrong: ' + err);
   } else {
-    document.getElementById(textfieldId).innerText = data;
+    document.getElementById(type + "Field").innerText = data;
+    fillTweetThis(type, data);
   }
 }
 

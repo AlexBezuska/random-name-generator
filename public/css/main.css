@@ -10,6 +10,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
 a{
   color: white;
 }
@@ -61,6 +63,31 @@ h2{
   }
 }
 
+.form a{
+  color: #ac42d7;
+}
+
+
+
+.social-link{
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 10px;
+  right: 13px;
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background: rgba(255,255,255,0.5);
+  vertical-align: middle;
+  color: #a725a7;
+  padding: 9px 0 0 3px;
+  font-size: 38px;
+  transition: all 200ms ease-in-out;
+}
+.social-link:hover{
+  color:  white !important;
+  background: #a725a7;
+}
 
 .name {
   color: black;
@@ -95,5 +122,3 @@ h2{
 .form button:hover,.form button:active,.form button:focus {
   background: #7609A2;
 }
-
-
