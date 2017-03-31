@@ -5,6 +5,7 @@ Ancient Technology
 Ancillary
 Angry
 Angular
+Anthropomorphic
 Appalling
 Appealing
 Apple Sauce
@@ -57,12 +58,10 @@ Final Form of
 First Class
 Flappy
 Floating
+GMO-Free
 Gas-Powered
 Glistening
-GMO-Free
 Good
-Mechanical
-Missing
 Gorgeous
 Gray
 Grease-Fire
@@ -71,7 +70,6 @@ Gregorian
 Gusty
 Gyrating
 Hadron
-Anthropomorphic
 Hand-Crafted
 Happy
 Hazy
@@ -85,7 +83,6 @@ Indescribable
 Infant
 Insane
 Insanity
-Sweet-Natured
 Interesting
 Intuitive
 Inverted
@@ -101,6 +98,7 @@ Lowly
 Lucky
 Luxurious
 Massive
+Mechanical
 Mega
 Melancholy
 Messy
@@ -110,6 +108,7 @@ Milky
 Minefield
 Miniature
 Miniscule
+Missing
 Misty
 Moldy
 Most Appealing
@@ -181,6 +180,7 @@ Super-Mutant
 Superior
 Sushi
 Sweet
+Sweet-Natured
 Tawdry
 Technologically-Advanced
 Teensy

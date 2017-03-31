@@ -7,7 +7,6 @@ Alfonzo
 Alfronzo
 Alicia
 Allen
-Sunshine
 Anita
 Anjali
 Anthony
@@ -22,9 +21,11 @@ Barry
 Bartholomew
 Battery
 Beckey
+Beep Beep
 Ben
 Benjamin
 Bert
+Billy
 Blackberry
 Blizzard
 Blueberry
@@ -36,6 +37,8 @@ Brioche
 Bruce
 Bruno
 Bubble
+Bunny
+CENSORED
 Cacciatore
 Campbell
 Cantaloupe
@@ -48,6 +51,8 @@ Cavatappi
 Charles
 Cherry
 Chill
+Chip
+Chirp
 Clementine
 Clicky
 Coconut
@@ -59,6 +64,7 @@ Currant
 Cyborg
 Dancing
 Dannie
+Darry
 Dennis
 Diaper
 Dr.
@@ -91,7 +97,6 @@ Grapefruit
 Gravity
 Gruac
 Guy
-haha
 Hamuel
 Honey
 Honeydew
@@ -113,10 +118,12 @@ Josh
 Joshua
 Juan
 Kamini
+Kebra
 Kelsey
 Kim
 Kiwi
 Klorence
+LOL
 Land Slug
 Larry
 Laura
@@ -128,38 +135,25 @@ Lex
 Lime
 Little
 Loi
-LOL
+Lonce
 Longhorn
 Luke
-Martholomew
+Lulian
 Mai
 Malakhi
 Mango
+Martholomew
 Matt
-Miles "Tails"
 Max
-Turd
-Chip
-Chirp
-Beep Beep
-CENSORED
-Lonce
-Seginald
-Kebra
-Poshua
-Darry
+Miles "Tails"
 Morph
-Porty
 Mr. Bob
 Mucho
-Billy
-Starey
 Mulberry
 Musto
 Nate
 Nectarine
 Neon
-Lulian
 Nobou
 Olive
 Orange
@@ -176,6 +170,8 @@ Pip
 Plum
 Pomegranate
 Porrence
+Porty
+Poshua
 Prajakta
 Proto
 Prune
@@ -195,6 +191,7 @@ Samuelson
 Sandra
 Sara
 Sarah
+Seginald
 Siamese
 Slim
 Sneaky
@@ -202,18 +199,17 @@ Sotorou
 Space
 Spaghetti
 Spark
+Starey
 Sting
 Stinging
 Storm
 Strawberry
-Bunny
+Sunshine
 Tangerine
 Teenie
 Thinking
 Tim
 Timney
-Which is Short for
-Which is Chinese for
 Timothy
 Toasted
 Tom
@@ -224,6 +220,7 @@ Tonks
 Torrence
 Toxic
 Tunnel
+Turd
 Twig
 Upperhand
 Vermicelli
@@ -236,6 +233,9 @@ Watermelon
 Wesley
 Wheat
 Wheel
+Which is Chinese for
+Which is Short for
 Wiggle
 Wire
 Witch
+haha

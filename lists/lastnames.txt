@@ -1,4 +1,3 @@
-
 Aardvark
 Albatross
 Alligator
@@ -16,6 +15,7 @@ Ape
 Aphid
 Armadillo
 Asp
+BBQ
 Baboon
 Badger
 Bagel
@@ -27,18 +27,16 @@ Barracuda
 Basilisk
 Bass
 Bat
-BBQ
 Beak
 Bear
 Beat
 Beaver
-
 Bedbug
 Bee
+BeeZord
 Beefalo
 Beetle
 BeetleBorg
-BeeZord
 Belk
 Berkus
 Billiam
@@ -50,15 +48,19 @@ Boa
 Boar
 Bobcat
 Boo
+Boop Boop
+Borg Queen
 Bot
 Boy
 Bread Slice
 Buffalo
 Bug
 Bun
+Burglar
 Butterfly
 Buzzard
 Camel
+Can-Crusher
 Canary
 Canine
 Capybara
@@ -86,13 +88,11 @@ Cicada
 Clam
 Clarinet
 Clay
-
 Clownfish
 Cluster of Amoebas
 Cobra
 Cockroach
 Cod
-Prower
 Condor
 Constrictor
 Coral
@@ -100,11 +100,8 @@ Cougar
 Cow
 Coyote
 Crab
-crab
 Crane
-crane
 Crawdad
-
 Crayfish
 Cricket
 Crocodile
@@ -116,10 +113,11 @@ CyberBuffalo
 CyberDroid
 CyberShrimp
 Cyborg
+DaRude
 Dabalina
 Damselfly
-DaRude
-
+Dantreeb
+DeLeon
 Deer
 Dermis
 Dingo
@@ -130,12 +128,9 @@ Dolphin
 Donkey
 Dormouse
 Dove
-dove
-dragon
 Dragon
 Dragonfly
 Droid Army
-duck
 Duck
 Eagle
 Earthworm
@@ -148,34 +143,30 @@ Elephant
 Elk
 Emu
 Enforcer
-Mold Fiend
 Esquire
-esquire
-falcon
+FM
+Face
 Falcon
+Fashir
 Feet
 Fence Post
 Ferret
 Fettuccine
 Fietti
 Finch
-finch
 Fingers
 Firefly
-fish
 Fish
 Flamingo
 Flea
-
 Fly
 Flyingfish
-FM
+Folim
+Foosh
 Fowl
-fox
 Fox
-Frogling
 Frog
-
+Frogling
 Fungal Mass
 Fungus
 Furious
@@ -189,24 +180,19 @@ Gerbil
 Gibbon
 Gila monster
 Giraffe
-glider
 Glover
 Gnocchi
-goat
 Goat
-Turtlezord
 Goldblum
 Goldfish
 Goods
 Goose
-goose
 Gopher
 Gorilla
 Graham
 Grant
 Grasshopper
 Guinea pig
-guineafowl
 Guineafowl
 Gull
 Guppy
@@ -220,7 +206,6 @@ Harrier
 Hawk
 Hedgehog
 Hen
-
 Heron
 Herring
 Hippopotamus
@@ -237,10 +222,9 @@ Hummingbird
 Hybrid SemiHuman
 Hyena
 Iguana
-in a Blender
+Investor
 Jackal
 Jaguar
-jay
 Jellyfish
 Junglefowl
 Kangaroo
@@ -249,7 +233,6 @@ Keyboard
 Keys
 Kingfisher
 Kiwi
-
 Koala
 Koi
 Krill
@@ -261,30 +244,27 @@ Lark
 Lasagne
 Lazzaro
 Leech
+Left Arm
 Lemming
 Lemur
 Leomancer
 Leopard
-leopard
-lion
 Lion
 Lizard
-lizard
 Llama
 Loaf of Bread
 Lobster
 Locust
 Longface
 Loon
+Lostich
 Louse
 Love
 Lungfish
-
 Lynx
-ParrotBorg
+MD
 Machine
 Mackerel
-
 Magpie
 Malcolm
 Mammal
@@ -293,20 +273,20 @@ Manatee
 Mandrill
 Mansplainer
 Manta ray
-mantis
 Marlin
 Marmoset
 Marmot
 Mars
 Marsupial
 Marten
+Mary
 Mashed Potatoes
 Mastodon
 Mc
 McBabies
 McDermis
+McMimes
 McStabby
-MD
 Meadowlark
 Mechanical Person
 Meerkat
@@ -314,26 +294,24 @@ MegaDroid
 Meta-Contagion
 Meteor Fungus
 Microorganism
+Middle-Child
 Mink
-
 Minnow
 Mite
 Mockingbird
 Mold
+Mold Fiend
 Mole
-mole
 Molerat
 Mollusk
 Mongoose
 Monkey
-monkey
 Monster
 Monstrosity
 Moose
 Mosquito
 Moth
 Mouse
-mouse
 Mule
 Mushroom
 Muskox
@@ -343,11 +321,9 @@ Ngo
 Nightingale
 Noodles
 Norton
+Nugget
 Ocelot
 Octopus
-
-
-on Toast
 Ontario
 Opossum
 Orangutan
@@ -356,84 +332,69 @@ Ostrich
 Otter
 Owl
 Ox
+PH.d
 Pair of Actual Shorts
 Panda
-panda
-panther
 Panther
 Parakeet
 Parrot
+ParrotBorg
 Parrotfish
 Partridge
 Pathogenic
 Peacock
 Peafowl
 Pecan
-
 Peete
 Pelican
 Penguin
 Perch
-perch
-PH.d
 Pham
 Pharoah
 Pheasant
 Pho
 Pig
-pig
-pigeon
 Pigeon
 Pike
 Pillbug
 Piranha
 Platypus
-pointer
 Poison Berry
 Pony
 Porcupine
 Porpoise
-
-
 Possum
 Prawn
 Primate
-Face
-Fingers
-Left Arm
-
 ProtoFist
+Prower
 Puffin
 Puma
 PumaDroid
 Python
-
 Quail
-
 Quezacotl
-RobotZebra
-Rabbot
+ROFL
 Rabbit
+Rabbot
 Raccoon
 Rat
-rat
 RatBeast
 Rattlesnake
 Raven
 Ravioli
 Ray
-
 Red panda
 Reindeer
 Reptile
 Rhinoceros
 Rigatoni
-Robotto
 Roadrunner
 Robin
 Robot
+RobotZebra
+Robotto
 Rodent
-ROFL
 Rooster
 Roundworm
 Sailfish
@@ -441,7 +402,6 @@ Salad
 Salad Tongs
 Salamander
 Salmon
-salmon
 Sandwich
 Sason
 Sasparilla
@@ -454,26 +414,25 @@ Scallop
 Scone
 Scorpion
 Seahorse
-seal
 Shack
 Shaeffer
-shark
 Shark
 Sheep
 Shrew
 Shrimp
-silkmoth
 Silkworm
 Silverfish
+Skelletina
+Skelleton
+Skellymans
 Skink
 Skunk
 Slimebeast
+Slomez
 Sloth
 Slug
-slug
 Smelt
 Snail
-snail
 Snake
 Snatcher
 Snipe
@@ -490,11 +449,9 @@ Squid
 Squirrel
 Staple
 Starfish
+Stephanopoulos
 Stingray
 Stork
-Skelleton
-Skellymans
-Skelletina
 Streep
 Student
 Sturgeon
@@ -513,13 +470,11 @@ Termite
 Tern
 The Drop
 The Elder
-Middle-Child
 The Third
 The Younger
 Theepwood
 Thief
 Thomas
-Can-Crusher
 Tick
 Tiger
 Toad
@@ -533,16 +488,15 @@ Tracker
 Trashbag
 Treefolk
 Triceratops
-tronaut
-trout
 Trout
 Truck
 Trumpet
 Tuna
-turkey
+Turd
 Turkey
 Turt
 Turtle
+Turtlezord
 Tusk
 Tyrannosaurus
 UltraDroid
@@ -551,32 +505,15 @@ Vicuna
 Viper
 Virus
 Vole
-Nugget
-Burglar
-Mary
-Boop Boop
-Fashir
-McMimes
-DeLeon
-Dantreeb
-Borg Queen
-Weeb
-Lostich
-Stephanopoulos
-Investor
-Turd
 Vulture
 Wallaby
 Walrus
 Wampire
-Folim
-Slomez
 Warbler
-Foosh
 Wasp
 Weasel
+Weeb
 Werewolf
-whale
 Whale
 Whippet
 Whitefish
@@ -594,3 +531,44 @@ Yeonard
 Yeti
 Zebra
 Ziti
+crab
+crane
+dove
+dragon
+duck
+esquire
+falcon
+finch
+fish
+fox
+glider
+goat
+goose
+guineafowl
+in a Blender
+jay
+leopard
+lion
+lizard
+mantis
+mole
+monkey
+mouse
+on Toast
+panda
+panther
+perch
+pig
+pigeon
+pointer
+rat
+salmon
+seal
+shark
+silkmoth
+slug
+snail
+tronaut
+trout
+turkey
+whale
