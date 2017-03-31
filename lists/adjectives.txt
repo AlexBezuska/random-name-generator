@@ -42,8 +42,10 @@ Deluxe
 Dependable
 Designer
 Difficult
+Dino
 Disease-Ridden
 Downtown
+Draco
 Elderly
 Energized
 Evening Wear
@@ -76,6 +78,7 @@ Hazy
 Heavenly
 Highly Recommended
 Horizontal
+Hydro
 Illusion
 Imploded
 Impossible
@@ -97,11 +100,14 @@ Local
 Lowly
 Lucky
 Luxurious
+Macro
+Majestic
 Massive
 Mechanical
 Mega
 Melancholy
 Messy
+Micro
 Microscopic
 Middle-Aged
 Milky
@@ -111,6 +117,7 @@ Miniscule
 Missing
 Misty
 Moldy
+Morph
 Most Appealing
 Mountain
 Muddy
@@ -129,10 +136,12 @@ Omega
 Omicron
 Organic
 Ornate
+Ortho
 Oscillating
 Overpriced
 Oversized
 Persei
+Poly
 Pretty Decent
 Procedurally-Generated
 Professionally-Made

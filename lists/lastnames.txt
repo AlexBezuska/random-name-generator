@@ -51,6 +51,8 @@ Bison
 Boa
 Boar
 Bobcat
+Body Armor
+Bonethug
 Boo
 Boop Boop
 Borg Queen
@@ -97,6 +99,7 @@ Clownfish
 Cluster of Amoebas
 Cobra
 Cockroach
+Cocoon
 Cod
 Condor
 Constrictor
@@ -149,6 +152,7 @@ Elk
 Emu
 Enforcer
 Esquire
+Exoskeleton
 FM
 Face
 Falcon
@@ -279,6 +283,7 @@ Mammal
 Man O' War
 Manatee
 Mandrill
+MangoTron
 Mansplainer
 Manta ray
 Mantis
@@ -300,6 +305,7 @@ Meadowlark
 Mechanical Person
 Meerkat
 MegaDroid
+Megalodon
 Meta-Contagion
 Meteor Fungus
 Microorganism
@@ -394,15 +400,15 @@ Rattlesnake
 Raven
 Ravioli
 Ray
-Red panda
+Red Panda
 Reindeer
 Reptile
 Rhinoceros
 Rigatoni
 Roadrunner
 Robin
+RoboZebra
 Robot
-RobotZebra
 Robotto
 Rodent
 Rooster
@@ -434,9 +440,11 @@ Shrimp
 Silkmoth
 Silkworm
 Silverfish
+SkelleTron
 Skelletina
 Skelleton
 Skellymans
+Skin
 Skink
 Skunk
 Slimebeast
@@ -480,11 +488,6 @@ Tapir
 Tarantula
 Teacher
 Termite
-Tern
-The Drop
-The Elder
-The Third
-The Younger
 Theepwood
 Thief
 Thomas

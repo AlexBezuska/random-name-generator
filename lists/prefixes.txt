@@ -179,7 +179,7 @@ Grandmaster
 Grandpa
 Grandson of
 Grave Robber
-Grey-bBarded
+Grey-Bearded
 Guidance Counselor
 Handmaiden
 Hard-Working
@@ -271,7 +271,7 @@ Obedient Servant
 Officiant
 Offspring of
 Old Timer
-On a Firs-Name Basis With
+On a First-Name Basis With
 Ornery
 Outlaw
 Overlord
