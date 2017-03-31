@@ -10,8 +10,11 @@ Astronomer
 Aunt
 Aviator
 Bad Boy
+Back-to-Back
+Non-Stop
 Bad Girl
 Bag Boy
+I Can't Believe It's Not
 Balloonist
 Baroness
 Barron
@@ -373,6 +376,24 @@ Vote for
 Waiter
 Wet Nurse
 Wife of
+Star Bishop
+Starmancer
+Demon-Fighter
+Star Justice
+Star Attorney
+Attorney
+Normal old
+Plain old
+Child Bearer
+All Hail
+Bluesman
+Soul Food
+Truck Driver
+Cab Driver
+Airline Pilot
+Woman of the Year
+Winner of Best Picture
+Matchemaker to the Stars
 Winner of the Spelling Bee
 Worker
 Yoga Instructor

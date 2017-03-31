@@ -1,5 +1,4 @@
-360
-4000
+
 Aardvark
 Albatross
 Alligator
@@ -33,7 +32,7 @@ Beak
 Bear
 Beat
 Beaver
-Because of the Way I Play Jazz
+
 Bedbug
 Bee
 Beefalo
@@ -87,18 +86,7 @@ Cicada
 Clam
 Clarinet
 Clay
-of the Clone Army
-of the Clone Battalion
-of the Clone Navy
-Leader of the Clone Army
-Leader of the Clone Battalion
-Leader of the Clone Navy
-Clone Army Lawyer
-Clone Battalion Lawyer
-Clone Navy Lawyer
-Dentist for the Clone Army
-Dentist for the Clone Battalion
-Dentist for the Clone Navy
+
 Clownfish
 Cluster of Amoebas
 Cobra
@@ -116,7 +104,7 @@ crab
 Crane
 crane
 Crawdad
-Crawling with Nanites
+
 Crayfish
 Cricket
 Crocodile
@@ -128,10 +116,10 @@ CyberBuffalo
 CyberDroid
 CyberShrimp
 Cyborg
-Daboleena
+Dabalina
 Damselfly
 DaRude
-Dealer for the People
+
 Deer
 Dermis
 Dingo
@@ -178,7 +166,7 @@ fish
 Fish
 Flamingo
 Flea
-Floating in Space
+
 Fly
 Flyingfish
 FM
@@ -187,8 +175,7 @@ fox
 Fox
 Frogling
 Frog
-from the future
-from the past
+
 Fungal Mass
 Fungus
 Furious
@@ -207,6 +194,7 @@ Glover
 Gnocchi
 goat
 Goat
+Turtlezord
 Goldblum
 Goldfish
 Goods
@@ -232,7 +220,7 @@ Harrier
 Hawk
 Hedgehog
 Hen
-Here with your pizza
+
 Heron
 Herring
 Hippopotamus
@@ -240,7 +228,7 @@ Holand
 Hookworm
 Hornet
 Horse
-household pest
+Household Pest
 Hoverfly
 Human
 Human Being
@@ -261,7 +249,7 @@ Keyboard
 Keys
 Kingfisher
 Kiwi
-Knocking at The Front Door
+
 Koala
 Koi
 Krill
@@ -291,17 +279,12 @@ Loon
 Louse
 Love
 Lungfish
-Lurching for Safety
+
 Lynx
 ParrotBorg
 Machine
 Mackerel
-Made of Bones
-Made of Dreams
-Made of People
-Made of Skin
-Made of Stardust
-Made of Teeth
+
 Magpie
 Malcolm
 Mammal
@@ -332,6 +315,7 @@ Meta-Contagion
 Meteor Fungus
 Microorganism
 Mink
+
 Minnow
 Mite
 Mockingbird
@@ -361,8 +345,8 @@ Noodles
 Norton
 Ocelot
 Octopus
-of majesty
-On the phone for you
+
+
 on Toast
 Ontario
 Opossum
@@ -385,7 +369,7 @@ Pathogenic
 Peacock
 Peafowl
 Pecan
-Peeler of the potatoes
+
 Peete
 Pelican
 Penguin
@@ -409,37 +393,23 @@ Poison Berry
 Pony
 Porcupine
 Porpoise
-With a Jetpack
-With a Rocket Strapped to it
-With Ice Skates
-On a Pogo Stick
-Author of the Hungry Games Trilogy
-With no Pants
-is Why We Can't Have Nice Things
+
+
 Possum
 Prawn
 Primate
 Face
 Fingers
 Left Arm
-With Ginormous Antlers
-With a Fish in it's Mouth
-With Grease All Over it
-With Extra Limbs
-With a Larger Than Average Tongue
+
 ProtoFist
 Puffin
 Puma
 PumaDroid
 Python
-from That Reality TV Show
-Recently Escaped from Prison
+
 Quail
-Recently Escaped from Jail
-Recently Escaped from Space Prison
-Recently Escaped from Cyber Prison
-Now with Flavor
-With no Human Cells
+
 Quezacotl
 RobotZebra
 Rabbot
@@ -452,7 +422,7 @@ Rattlesnake
 Raven
 Ravioli
 Ray
-Recently Found in Space
+
 Red panda
 Reindeer
 Reptile
@@ -512,18 +482,19 @@ Space Bacteria
 Space Brick
 Sparrow
 Sperm whale
-spider
 Spider
 Spiderbones
 Spoon
 Spoonbill
-squid
 Squid
 Squirrel
 Staple
 Starfish
 Stingray
 Stork
+Skelleton
+Skellymans
+Skelletina
 Streep
 Student
 Sturgeon
@@ -541,13 +512,14 @@ Teacher
 Termite
 Tern
 The Drop
-The elder
+The Elder
+Middle-Child
 The Third
-The younger
+The Younger
 Theepwood
 Thief
 Thomas
-Can-Crushers
+Can-Crusher
 Tick
 Tiger
 Toad
@@ -611,10 +583,6 @@ Whitefish
 Wildcat
 Wildfowl
 Wiley
-Winner of the hotdog eating contest
-With a Leaf-Blower Strapped to it
-With Diplomatic Immunity
-Without it's Baby Teeth
 Wolf
 Wolverine
 Wombat

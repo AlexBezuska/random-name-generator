@@ -7,10 +7,12 @@ var locations = makeList("./lists/locations.txt");
 var locationSuffixes = makeList("./lists/location-suffixes.txt");
 
 /* Username lists */
-var titles = makeList("./lists/titles.txt");
-titles = titles.concat(adjectives);
+var prefixes = makeList("./lists/prefixes.txt");
+prefixes = prefixes.concat(adjectives);
 var firstnames = makeList("./lists/firstnames.txt");
+var nicknames = makeList("./lists/nicknames.txt");
 var lastnames = makeList("./lists/lastnames.txt");
+var suffixes = makeList("./lists/suffixes.txt");
 
 function makeList(file) {
   return fs.readFileSync(file).toString().trim().split("\n");
@@ -59,7 +61,7 @@ function generateLocation() {
 function generateUsername() {
     return generateName(
       [
-        { list: titles, probability: 1 },
+        { list: prefixes, probability: 1 },
         { list: adjectives, probability: 0.5 },
         { list: firstnames, probability: 1 },
         { list: lastnames, probability: 1 }
@@ -91,10 +93,12 @@ console.log("```\nUsers:\n```");
 for (var i = 0; i < results; i++) {
   var userName = generateName(
     [
-      { list: titles, probability: 1 },
-      { list: adjectives, probability: 0.5 },
+      { list: prefixes, probability: 1 },
+      { list: adjectives, probability: 0.1 },
       { list: firstnames, probability: 1 },
-      { list: lastnames, probability: 1 }
+      { list: nicknames, probability: 0.05 },
+      { list: lastnames, probability: 1 },
+      { list: suffixes, probability: 0.2 }
     ]
   );
   console.log(userName);
